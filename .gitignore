@@ -8,8 +8,7 @@ __pycache__/
 # Ignore batch files
 *.bat
 
-# Ignore PDFs
-*.pdf
+
 
 # Ignore Excel files
 *.xlsx
