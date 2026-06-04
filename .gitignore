@@ -26,3 +26,6 @@ Thumbs.db
 downloader.db
 emails.db
 env/
+
+# Clean Backup Exclusions
+*.pdf
