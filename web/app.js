@@ -41,7 +41,16 @@ function init() {
         if (storedDiffs) questionDifficulties = JSON.parse(storedDiffs);
 
         const storedProfile = localStorage.getItem("ca_user_profile");
-        if (storedProfile) userProfile = JSON.parse(storedProfile);
+        if (storedProfile) {
+            userProfile = JSON.parse(storedProfile);
+        } else {
+            // Auto-login default candidate
+            userProfile = {
+                name: "Shubham Kadam",
+                regNo: "CRO0123456"
+            };
+            localStorage.setItem("ca_user_profile", JSON.stringify(userProfile));
+        }
     } catch (e) {
         console.error("[-] Error loading progress from localStorage:", e);
     }
