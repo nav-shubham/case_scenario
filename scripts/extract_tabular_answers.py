@@ -98,4 +98,4 @@ def extract_tabular_case_answers(pdf_path, output_excel_path):
         print("[-] System Alert: No tabular data matched the anchors.")
 
 # EXECUTION TRIGGER
-extract_tabular_case_answers("90962bos-aps4227-p2.pdf", "AFM_Tabular_Answers.xlsx")
+extract_tabular_case_answers("data/intermediate/Original/Section A_ Income-tax.pdf", "data/intermediate/Answers/DT_Tabular_Answers.xlsx")
