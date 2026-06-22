@@ -58,13 +58,9 @@ function init() {
     // Set up Event Listeners
     setupEventListeners();
     
-    // Check if user is logged in
-    if (userProfile) {
-        updateProfileUI();
-        showDashboard();
-    } else {
-        showLoginScreen();
-    }
+    // Setup router
+    window.addEventListener('hashchange', handleRouting);
+    handleRouting();
 }
 
 function setupEventListeners() {
@@ -93,10 +89,7 @@ function setupEventListeners() {
     
     // Back to Levels button
     document.getElementById("btn-back-to-levels").addEventListener("click", () => {
-        document.getElementById("subject-selector-screen").style.display = "none";
-        document.getElementById("level-selector-screen").style.display = "block";
-        currentLevel = null;
-        updateBreadcrumbs();
+        window.location.hash = '#/dashboard';
     });
 
     // Font Controls
@@ -202,88 +195,161 @@ function setupEventListeners() {
 
 // Navigation helpers
 function goHome() {
-    if (!userProfile) return;
-    currentLevel = null;
-    currentSubject = null;
-    currentCase = null;
-    document.getElementById("view-workspace").style.display = "none";
-    document.getElementById("view-dashboard").style.display = "block";
-    document.getElementById("subject-selector-screen").style.display = "none";
-    document.getElementById("level-selector-screen").style.display = "block";
-    updateBreadcrumbs();
+    window.location.hash = '#/dashboard';
 }
 
 function showDashboard() {
-    if (!userProfile) {
-        showLoginScreen();
-        return;
-    }
-    currentCase = null;
-    currentSubject = null;
-    clearInterval(examTimerInterval);
-    
-    document.getElementById("view-workspace").style.display = "none";
-    document.getElementById("view-dashboard").style.display = "block";
-    
-    if (currentLevel) {
-        document.getElementById("level-selector-screen").style.display = "none";
-        document.getElementById("subject-selector-screen").style.display = "block";
-        buildSubjectList();
-    } else {
-        document.getElementById("level-selector-screen").style.display = "block";
-        document.getElementById("subject-selector-screen").style.display = "none";
-    }
-    updateBreadcrumbs();
-    
-    // Update global dashboard stats
-    updateDashboardStats();
+    window.location.hash = '#/dashboard';
 }
 
 function selectLevel(level) {
-    currentLevel = level;
-    document.getElementById("level-selector-screen").style.display = "none";
-    document.getElementById("subject-selector-screen").style.display = "block";
-    document.getElementById("level-heading").innerText = `CA ${level} - Subjects`;
-    buildSubjectList();
-    updateBreadcrumbs();
+    window.location.hash = '#/dashboard/' + level.toLowerCase();
 }
 
 function selectSubject(subjectName) {
-    if (!userProfile) return;
-    if (!window.EXAM_DATABASE || !window.EXAM_DATABASE[currentLevel]) {
-        alert("Exam database loading. Please refresh.");
-        return;
-    }
-    
-    const subjectList = window.EXAM_DATABASE[currentLevel];
-    currentSubject = subjectList.find(s => s.subject === subjectName);
-    
-    if (!currentSubject) {
-        alert("Subject not found!");
-        return;
-    }
+    if (!currentLevel) return;
+    window.location.hash = '#/workspace/' + currentLevel.toLowerCase() + '/' + encodeURIComponent(subjectName);
+}
 
-    // Hide Dashboard, Show Split Workspace
-    document.getElementById("view-dashboard").style.display = "none";
-    document.getElementById("view-workspace").style.display = "flex";
+function selectCase(caseNo, qIdx = null) {
+    if (!currentLevel || !currentSubject) return;
+    const idx = qIdx !== null ? qIdx : currentQuestionIndex;
+    window.location.hash = '#/workspace/' + currentLevel.toLowerCase() + '/' + encodeURIComponent(currentSubject.subject) + '/case/' + caseNo + '/q/' + idx;
+}
+
+// Route Handler
+function handleRouting() {
+    const hash = window.location.hash || '#/dashboard';
     
-    updateBreadcrumbs();
+    // Check login state
+    if (!userProfile) {
+        if (hash !== '#/login') {
+            window.location.hash = '#/login';
+            return;
+        }
+        showLoginScreenDirect();
+        return;
+    }
     
-    // Clear search box
-    document.getElementById("search-cases").value = "";
+    // Redirect if on login but authenticated
+    if (hash === '#/login') {
+        window.location.hash = '#/dashboard';
+        return;
+    }
     
-    // Load first case scenario
-    if (currentSubject.cases && currentSubject.cases.length > 0) {
-        selectCase(currentSubject.cases[0].case_no);
+    // Parse Hash Route
+    const parts = hash.split('/').filter(p => p); // e.g. ['dashboard'], ['workspace', 'final', 'AFM']
+    
+    if (parts[0] === 'dashboard') {
+        // Stop any running timers and clean states
+        clearInterval(examTimerInterval);
+        
+        // Hide Workspace, Show Dashboard
+        document.getElementById("view-workspace").style.display = "none";
+        document.getElementById("view-dashboard").style.display = "block";
+        document.getElementById("view-login").style.display = "none";
+        updateProfileUI();
+        
+        if (parts[1] === 'final' || parts[1] === 'intermediate') {
+            const level = parts[1] === 'final' ? 'Final' : 'Intermediate';
+            currentLevel = level;
+            currentSubject = null;
+            currentCase = null;
+            document.getElementById("level-selector-screen").style.display = "none";
+            document.getElementById("subject-selector-screen").style.display = "block";
+            document.getElementById("level-heading").innerText = `CA ${level} - Subjects`;
+            buildSubjectList();
+        } else {
+            currentLevel = null;
+            currentSubject = null;
+            currentCase = null;
+            document.getElementById("subject-selector-screen").style.display = "none";
+            document.getElementById("level-selector-screen").style.display = "block";
+        }
+        updateBreadcrumbs();
+        updateDashboardStats();
+    } else if (parts[0] === 'workspace') {
+        const levelCode = parts[1]; // 'final' or 'intermediate'
+        const subjectCode = decodeURIComponent(parts[2] || '');
+        
+        if (!levelCode || !subjectCode) {
+            window.location.hash = '#/dashboard';
+            return;
+        }
+        
+        const level = levelCode === 'final' ? 'Final' : 'Intermediate';
+        currentLevel = level;
+        
+        // Wait if database is not loaded
+        if (!window.EXAM_DATABASE || !window.EXAM_DATABASE[currentLevel]) {
+            console.log("[-] Database not ready yet, retrying route handling...");
+            setTimeout(handleRouting, 100);
+            return;
+        }
+        
+        const subjectList = window.EXAM_DATABASE[currentLevel];
+        const matchedSubject = subjectList.find(s => s.subject.toLowerCase() === subjectCode.toLowerCase());
+        
+        if (!matchedSubject) {
+            alert("Subject not found!");
+            window.location.hash = '#/dashboard';
+            return;
+        }
+        
+        currentSubject = matchedSubject;
+        
+        // Hide Dashboard/Login, Show Workspace
+        document.getElementById("view-dashboard").style.display = "none";
+        document.getElementById("view-workspace").style.display = "flex";
+        document.getElementById("view-login").style.display = "none";
+        updateProfileUI();
+        
+        updateBreadcrumbs();
+        
+        // Parse Case No and Q index
+        let caseNoToSelect = null;
+        let qIndexToSelect = 0;
+        
+        if (parts[3] === 'case' && parts[4]) {
+            caseNoToSelect = parseInt(parts[4]);
+            if (parts[5] === 'q' && parts[6] !== undefined) {
+                qIndexToSelect = parseInt(parts[6]);
+            }
+        }
+        
+        if (currentSubject.cases && currentSubject.cases.length > 0) {
+            const hasCase = currentSubject.cases.find(c => c.case_no === caseNoToSelect);
+            if (!hasCase) {
+                // Default to first case
+                caseNoToSelect = currentSubject.cases[0].case_no;
+                qIndexToSelect = 0;
+                window.location.hash = `#/workspace/${levelCode}/${encodeURIComponent(currentSubject.subject)}/case/${caseNoToSelect}/q/0`;
+                return;
+            }
+            selectCaseDirect(caseNoToSelect, qIndexToSelect);
+        } else {
+            document.getElementById("case-title").innerText = "No cases available";
+            document.getElementById("case-text").innerText = "No case scenarios parsed for this subject.";
+            document.getElementById("questions-list-container").innerHTML = "";
+        }
     } else {
-        document.getElementById("case-title").innerText = "No cases available";
-        document.getElementById("case-text").innerText = "No case scenarios parsed for this subject.";
-        document.getElementById("questions-list-container").innerHTML = "";
+        window.location.hash = '#/dashboard';
     }
 }
 
-function selectCase(caseNo) {
-    if (!userProfile) return;
+function showLoginScreenDirect() {
+    document.getElementById("view-login").style.display = "flex";
+    document.getElementById("view-dashboard").style.display = "none";
+    document.getElementById("view-workspace").style.display = "none";
+    
+    // Hide header controls
+    document.getElementById("btn-dashboard").style.display = "none";
+    document.getElementById("btn-logout").style.display = "none";
+    document.getElementById("btn-reset-all").style.display = "none";
+    document.getElementById("candidate-info-header").style.display = "none";
+}
+
+function selectCaseDirect(caseNo, questionIndex) {
     currentCase = currentSubject.cases.find(c => c.case_no === caseNo);
     if (!currentCase) return;
     
@@ -303,31 +369,35 @@ function selectCase(caseNo) {
         }
     }
     
-    // Reset active question navigation index
-    currentQuestionIndex = 0;
+    // Set current active question index with bounds check
+    if (questionIndex < 0) {
+        questionIndex = 0;
+    } else if (currentCase.questions && questionIndex >= currentCase.questions.length) {
+        questionIndex = currentCase.questions.length - 1;
+    }
+    currentQuestionIndex = questionIndex;
     
-    // Update active state in sidebar
+    // Update sidebar layout active state
     renderSidebarList(document.getElementById("search-cases").value);
     
-    // Render Case text on the left
+    // Render Case Title and Text
     document.getElementById("case-title").innerText = `Case Scenario ${currentCase.case_no}`;
     
-    // Render content: support custom highlighter HTML persistence if exists, else load standard formatted description
     const savedHtml = localStorage.getItem(`highlight_${currentSubject.subject}_${currentCase.case_no}`);
     document.getElementById("case-text").innerHTML = savedHtml || formatDescription(currentCase.description);
     
-    // Reset Scroll
+    // Scroll Reset
     document.getElementById("pane-description").scrollTop = 0;
     document.getElementById("pane-questions").scrollTop = 0;
     
-    // Show/hide PDF button
+    // Handle PDF opener
     if (currentSubject.pdf_file) {
         document.getElementById("btn-open-pdf").style.display = "inline-flex";
     } else {
         document.getElementById("btn-open-pdf").style.display = "none";
     }
     
-    // Setup Mode Configuration
+    // Setup Mode Config
     if (currentMode === 'exam') {
         startExamTimer();
         document.getElementById("exam-timer").style.display = "flex";
@@ -341,7 +411,7 @@ function selectCase(caseNo) {
         document.getElementById("tag-filter-container").style.display = "flex";
     }
     
-    // Render questions on the right
+    // Render Questions
     renderQuestions();
 }
 
@@ -952,14 +1022,14 @@ function setLayoutMode(mode) {
 function navigateQuestion(direction) {
     if (!currentCase || !currentCase.questions) return;
     
-    currentQuestionIndex += direction;
-    if (currentQuestionIndex < 0) {
-        currentQuestionIndex = 0;
-    } else if (currentQuestionIndex >= currentCase.questions.length) {
-        currentQuestionIndex = currentCase.questions.length - 1;
+    let newIndex = currentQuestionIndex + direction;
+    if (newIndex < 0) {
+        newIndex = 0;
+    } else if (newIndex >= currentCase.questions.length) {
+        newIndex = currentCase.questions.length - 1;
     }
     
-    renderQuestions();
+    selectCase(currentCase.case_no, newIndex);
 }
 
 function renderQuestionNavigationGrid(filteredList) {
@@ -986,8 +1056,7 @@ function renderQuestionNavigationGrid(filteredList) {
         }
         
         btn.addEventListener("click", () => {
-            currentQuestionIndex = idx;
-            renderQuestions();
+            selectCase(currentCase.case_no, idx);
         });
         
         grid.appendChild(btn);
@@ -1420,19 +1489,12 @@ function renderTagGroupedList(filterText = "") {
             `;
             
             div.addEventListener("click", () => {
-                if (!currentCase || currentCase.case_no !== item.case_no) {
-                    selectCase(item.case_no);
+                const targetCase = currentSubject.cases.find(c => c.case_no === item.case_no);
+                if (targetCase) {
+                    const qIndex = targetCase.questions.findIndex(q => q.q_no === item.q_no);
+                    const safeQIndex = qIndex !== -1 ? qIndex : 0;
+                    selectCase(item.case_no, safeQIndex);
                 }
-                
-                if (currentCase) {
-                    const qIndex = currentCase.questions.findIndex(q => q.q_no === item.q_no);
-                    if (qIndex !== -1) {
-                        currentQuestionIndex = qIndex;
-                        renderQuestions();
-                    }
-                }
-                
-                renderSidebarList(filterText);
             });
             
             container.appendChild(div);
@@ -1464,15 +1526,7 @@ function setTagFilter(filter) {
 
 // Login & Profile handlers
 function showLoginScreen() {
-    document.getElementById("view-login").style.display = "flex";
-    document.getElementById("view-dashboard").style.display = "none";
-    document.getElementById("view-workspace").style.display = "none";
-    
-    // Hide header dashboard controls
-    document.getElementById("btn-dashboard").style.display = "none";
-    document.getElementById("btn-logout").style.display = "none";
-    document.getElementById("btn-reset-all").style.display = "none";
-    document.getElementById("candidate-info-header").style.display = "none";
+    window.location.hash = '#/login';
 }
 
 function handleLogin() {
@@ -1489,7 +1543,7 @@ function handleLogin() {
     localStorage.setItem("ca_user_profile", JSON.stringify(userProfile));
     
     updateProfileUI();
-    showDashboard();
+    window.location.hash = '#/dashboard';
 }
 
 function handleLogout() {
@@ -1503,7 +1557,7 @@ function handleLogout() {
     document.getElementById("login-name").value = "";
     document.getElementById("login-reg").value = "";
     
-    showLoginScreen();
+    window.location.hash = '#/login';
 }
 
 function updateProfileUI() {
