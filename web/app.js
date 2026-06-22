@@ -32,27 +32,42 @@ function init() {
     // Load data from localStorage
     try {
         const storedAnswers = localStorage.getItem("ca_user_answers");
-        if (storedAnswers) userAnswers = JSON.parse(storedAnswers);
+        if (storedAnswers) userAnswers = JSON.parse(storedAnswers) || {};
         
         const storedProgress = localStorage.getItem("ca_user_progress");
-        if (storedProgress) progress = JSON.parse(storedProgress);
+        if (storedProgress) progress = JSON.parse(storedProgress) || {};
 
         const storedDiffs = localStorage.getItem("ca_question_difficulties");
-        if (storedDiffs) questionDifficulties = JSON.parse(storedDiffs);
+        if (storedDiffs) questionDifficulties = JSON.parse(storedDiffs) || {};
 
         const storedProfile = localStorage.getItem("ca_user_profile");
         if (storedProfile) {
-            userProfile = JSON.parse(storedProfile);
-        } else {
-            // Auto-login default candidate
-            userProfile = {
-                name: "Shubham Kadam",
-                regNo: "CRO0123456"
-            };
-            localStorage.setItem("ca_user_profile", JSON.stringify(userProfile));
+            try {
+                userProfile = JSON.parse(storedProfile);
+            } catch (err) {
+                userProfile = null;
+            }
         }
     } catch (e) {
         console.error("[-] Error loading progress from localStorage:", e);
+    }
+
+    // Defensive fallback checks
+    if (!userAnswers || typeof userAnswers !== 'object') userAnswers = {};
+    if (!progress || typeof progress !== 'object') progress = {};
+    if (!questionDifficulties || typeof questionDifficulties !== 'object') questionDifficulties = {};
+    
+    if (!userProfile || typeof userProfile !== 'object' || !userProfile.name || !userProfile.regNo) {
+        // Auto-login default candidate
+        userProfile = {
+            name: "Shubham Kadam",
+            regNo: "CRO0123456"
+        };
+        try {
+            localStorage.setItem("ca_user_profile", JSON.stringify(userProfile));
+        } catch (err) {
+            console.warn("[-] Failed to save default profile to localStorage:", err);
+        }
     }
 
     // Set up Event Listeners
@@ -1540,7 +1555,11 @@ function handleLogin() {
         regNo: regInput
     };
     
-    localStorage.setItem("ca_user_profile", JSON.stringify(userProfile));
+    try {
+        localStorage.setItem("ca_user_profile", JSON.stringify(userProfile));
+    } catch (e) {
+        console.warn("[-] Failed to save user profile to localStorage:", e);
+    }
     
     updateProfileUI();
     window.location.hash = '#/dashboard';
@@ -1550,7 +1569,11 @@ function handleLogout() {
     const confirmLogout = confirm("Are you sure you want to log out of the Candidate Portal?");
     if (!confirmLogout) return;
     
-    localStorage.removeItem("ca_user_profile");
+    try {
+        localStorage.removeItem("ca_user_profile");
+    } catch (e) {
+        console.warn("[-] Failed to remove user profile from localStorage:", e);
+    }
     userProfile = null;
     
     // Reset inputs
