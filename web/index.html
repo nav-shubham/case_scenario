@@ -8,6 +8,18 @@
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231e3a8a'/><text x='15' y='72' fill='%23fff' font-size='60' font-family='sans-serif' font-weight='bold'>CA</text></svg>">
     <!-- CSS Stylesheet -->
     <link rel="stylesheet" href="style.css">
+    <!-- Global JS Error Visualizer -->
+    <script>
+        window.onerror = function(message, source, lineno, colno, error) {
+            console.error("Caught global error:", message, "at", source, ":", lineno);
+            const errBanner = document.createElement("div");
+            errBanner.id = "js-error-banner";
+            errBanner.style.cssText = "position: fixed; top: 0; left: 0; right: 0; background: #fee2e2; color: #991b1b; padding: 1rem; border-bottom: 2px solid #ef4444; z-index: 999999; font-family: monospace; font-size: 0.85rem; white-space: pre-wrap; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);";
+            errBanner.innerHTML = "<strong>⚠️ JavaScript Runtime Error:</strong> " + message + "<br><em>Location:</em> " + source + " (Line " + lineno + ":" + colno + ")";
+            document.body.appendChild(errBanner);
+            return false;
+        };
+    </script>
 </head>
 <body>
 
