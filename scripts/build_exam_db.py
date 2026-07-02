@@ -9,6 +9,7 @@ pattern_case = re.compile(r"CASE\s+SCENARIO\s+(\d+)", re.IGNORECASE)
 pattern_q_no = re.compile(r"^(\d+)\.$")
 pattern_option_letter = re.compile(r"^\(([a-d])\)$")
 pattern_option_inline = re.compile(r"^\(([a-d])\)\s+(.*)")
+pattern_option = re.compile(r"^(?:Option\s+)?\(([a-d])\)(?::\s*|\s+)?(.*)", re.IGNORECASE)
 pattern_reason_anchor = re.compile(r"^\s*(?:Reason|Reasoning|Explanation|Calculation|Working)\s*(?::)?\s*$", re.IGNORECASE)
 
 def clean_text(text):

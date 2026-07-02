@@ -29,3 +29,37 @@ env/
 
 # Clean Backup Exclusions
 *.pdf
+
+# Global python/node ignores added by sync script
+node_modules/
+.pytest_cache/
+.ipynb_checkpoints/
+.tmp/
+temp/
+tmp/
+
+# Databases & large files
+*.db
+*.sqlite
+*.sqlite3
+*.exe
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mkv
+cookies.json
+cookies.txt
+
+# Common download/data directories
+downloads/
+downloaded_reports/
+data/
+pdfjs/
+google_colab/
+new chat/

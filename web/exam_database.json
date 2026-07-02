@@ -17,8 +17,8 @@
                 "c": "₹ 56,50,000",
                 "d": "₹ 51,50,000 ADVANCED ACCOUNTING"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "d",
+              "value_text": "₹ 51,50,000",
               "reasoning": ""
             },
             {
@@ -30,8 +30,8 @@
                 "c": "₹ 14,00,000",
                 "d": "₹ 5,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "b",
+              "value_text": "₹ 22,50,000",
               "reasoning": ""
             },
             {
@@ -43,8 +43,8 @@
                 "c": "₹ 20,00,000",
                 "d": "None of the above"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "a",
+              "value_text": "₹ 37,50,000",
               "reasoning": ""
             },
             {
@@ -56,9 +56,9 @@
                 "c": "₹ 14,00,000",
                 "d": "Nil"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 14,00,000",
+              "reasoning": "Intellectual Property Marketing Cost | Total Value | of | Intangible | Assets at | the end of | year | Total | amount | amortised | during the | year | Amount | amortised | during | the year | Value at | the end | on year | Amount | amortised | during | the year | Value at | the end on | year | Year 1 | 21,00,000 49,00,000 | 49,00,000 | 21,00,000 | Year 2 | 17,50,000 31,50,000 50,00,000 | 20,00,000 | 51,50,000 | 22,50,000 | Year 3 | 17,50,000 14,00,000 20,00,000 | 14,00,000 | 37,50,000 | Year 4 | 14,00,000 | 14,00,000 | Year 5 | Year 6 | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -75,9 +75,9 @@
                 "c": "₹ 8,50,000 (deferred tax asset)",
                 "d": "₹ 4,50,000 (deferred tax asset)"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 4,50,000 (deferred tax liability)",
+              "reasoning": "Excess depreciation as per tax (15,00,000-6,00,000) = ₹ 9,00,000 which is | timing difference. Tax expense is more than the current tax due to timing | difference. Therefore, deferred tax liability = 50% of ₹ 9,00,000 = ₹ 4,50,000"
             },
             {
               "q_no": 2,
@@ -88,9 +88,9 @@
                 "c": "₹ 3,15,000 (deferred tax liability)",
                 "d": "₹ 7,35,000(deferred tax liability)"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 3,15,000 (deferred tax liability)",
+              "reasoning": "Excess depreciation as per tax (15,00,000-6,00,000) = ₹ 9,00,000 which is | timing difference. Tax expense is more than the current tax due to timing | difference. Therefore, deferred tax liability = 35% of ₹ 9,00,000 = ₹ 3,15,000 | ADVANCED ACCOUNTING"
             },
             {
               "q_no": 3,
@@ -101,9 +101,9 @@
                 "c": "₹ 8,00,000",
                 "d": "Nil"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 2,80,000",
+              "reasoning": "GST Liability in books = ₹ 8,00,000 | Less: GST Liability as per Income Tax Act = Nil | Deferred Tax asset = 35% of ₹ 8,00,000 = ₹ 2,80,000"
             },
             {
               "q_no": 4,
@@ -114,9 +114,9 @@
                 "c": "the carrying amount of the net assets of the reporting enterprise is more than its market capitalisation",
                 "d": "evidence is available from internal reporting that indicates that the economic performance of an asset is, or will be, worse than expected"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "evidence is available from internal reporting that indicates that the economic performance of an asset is, or will be, worse than expected",
+              "reasoning": "Paragraph 8 of AS 26, only d is an internal source of information and rest | are external source of information."
             }
           ]
         },
@@ -133,9 +133,9 @@
                 "c": "₹ 90,900",
                 "d": "₹ 1,12,500"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 90900",
+              "reasoning": "• | Purchase cost = 1000 shares × ₹ 150 = ₹ 150,000. | • | Purchase brokerage = 1% of ₹ 150,000 = ₹ 1,500. | • | Total cost = ₹ 150,000 + ₹ 1,500 = ₹ 151,500. | • | Bonus issue = 1 for 4 on 1000 shares ⇒ bonus shares = 1000 ÷ 4 | = 250. | • | Total shares after bonus = 1000 + 250 = 1,250. | • | Cost per share after bonus = ₹ 151,500 ÷ 1,250 = ₹121.20. | 6. After selling 500 shares, remaining shares = 1,250 − 500 = 750. | • | Carrying value = 750 × ₹ 121.20 = ₹ 90,900. | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -152,8 +152,8 @@
                 "c": "₹ 41,00,000",
                 "d": "₹ 29,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "d",
+              "value_text": "₹ 29,00,000",
               "reasoning": ""
             },
             {
@@ -165,8 +165,8 @@
                 "c": "₹ 4,50,000",
                 "d": "₹ 5,37,500"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "a",
+              "value_text": "₹ 4,87,500",
               "reasoning": ""
             },
             {
@@ -178,8 +178,8 @@
                 "c": "Impairment loss of ₹ 6,25,000 to be debited to Profit & Loss A/c.",
                 "d": "Impairment loss of ₹ 15,25,000 to be debited to Profit & Loss A/c."
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "c",
+              "value_text": "₹ 4,50,000",
               "reasoning": ""
             }
           ]
@@ -197,8 +197,8 @@
                 "c": "₹ 1,23,600",
                 "d": "₹ 4,50,000 ADVANCED ACCOUNTING"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "c",
+              "value_text": "1,23,600",
               "reasoning": ""
             },
             {
@@ -210,8 +210,8 @@
                 "c": "₹ 1,52,000",
                 "d": "₹ 1,20,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "b",
+              "value_text": "3,30,000",
               "reasoning": ""
             },
             {
@@ -223,8 +223,8 @@
                 "c": "₹ 16,400",
                 "d": "₹ 90,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "c",
+              "value_text": "16,400",
               "reasoning": ""
             },
             {
@@ -236,9 +236,9 @@
                 "c": "Unamortized preliminary expenses",
                 "d": "Depreciation"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Donation",
+              "reasoning": "Impact of various items in terms of deferred tax | liability/deferred tax asset | Transactions | Analysis | Nature of | difference | Effect | Amount | @ 20% | Difference | in | depreciation | Excess | depreciation | as | per | tax | records | (₹ 18,00,000 – | ₹ | 12,00,000) | 6,00,000 | Deferred tax | liability | Timing | differences | 6,00,000 x 20% | = 1,20,000 | Unamortised | preliminary | expenses | as | per tax records | 1,00,000 | Timing | Deferred tax | asset | 20,000 | PF contribution | Disallowances, | as per IT Act, of | earlier years | Tax | payable | for the earlier | year | was | higher on this | account. | Responding | timing | difference | Reversal of | DTA | ₹ 82,000× 20% | = ₹ 16,400 | Interest | to | financial | institutions | It is allowed as | deduction | under section | 43B of the IT | Act, | if | the | payment | is | made before | the due date | of filing the | return | of | income | (i.e. | 31st October, | 2004). | No | timing | difference | Not | applicable | Not applicable | Donation | to | private trusts | Not | an | allowable | expenditure | under IT Act. | Permanent | difference | Not | applicable | Not applicable | ADVANCED ACCOUNTING | Deferred Tax Liability Account | ₹ in lakhs | ₹ in lakhs | 31.3.2023 | 1.4.2022 By Balance b/d | 2,10,000 | To Balance | c/d | 3,30,000 | By (Profit | and | Loss account | (Depreciation) | 1,20,000 | 3,30,000 | Deferred Tax Asset Account | ₹ in | lakhs | ₹ in | lakhs | 1.4.2022 To Balance | b/d | 1,20,000 31.3.2024 By Profit | and | Loss | Account: | Items disallowed in | 2022-23 and allowed | as per I.T. Act in | 2023-24 | 16,400 | Share issue expenses | 20,000 | By Balance c/d | 83,600 | 1,20,000 | 1.4.2024 To Balance | b/d"
             }
           ]
         },
@@ -255,9 +255,9 @@
                 "c": "Ace Limited invested in equity share which is not a qualifying asset, therefore directors are wrong to add the interest in cost of investments, rather it should be charged to profit and loss account.",
                 "d": "Since project is qualifying asset, directors of Ace Limited should capitalise the interest amount to market value of investments, rather than cost of investments."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Ace Limited invested in equity share which is not a qualifying asset, therefore directors are wrong to add the interest in cost of investments, rather it should be charged to profit and loss account.",
+              "reasoning": "As per AS 16 (Borrowing Costs), interest can be capitalised only if the asset | is a qualifying asset. Investment in equity shares does not qualify as a | qualifying asset for the investor (Ace Limited), even if the investee | company (Kay Limited) is constructing a project. Therefore, borrowing | cost cannot be added to the cost of investments. Interest of ₹ 2 lakhs | should be charged to Profit & Loss Account, not capitalised. | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -274,9 +274,9 @@
                 "c": "₹ 1,45,300",
                 "d": "₹ 4,04,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 1,54,500",
+              "reasoning": "Cash Flow from Operating Activities (A − B) ₹ 1,54,500 | = 15,56,000 +7,40,000+25,000 – [(19,60,000) +(1,20,000) + (40,500) + | (46,000) = ₹ 1,54,500"
             },
             {
               "q_no": 2,
@@ -287,9 +287,9 @@
                 "c": "₹ 29,300",
                 "d": "₹ (500)"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 54,300",
+              "reasoning": "Cash Flow from Investing Activities | 64,0006+ 49,500 - 9,200- 50,000 = ₹54,300"
             },
             {
               "q_no": 3,
@@ -300,9 +300,9 @@
                 "c": "₹ 54,300",
                 "d": "₹ (1,60,600)"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ (1,60,600)",
+              "reasoning": "Cash Flow from Financing Activities | 5,00,000 +2,50,000- 25,000 -8,00,000 -85,600= ₹ (1,60,600)"
             },
             {
               "q_no": 4,
@@ -313,9 +313,9 @@
                 "c": "Purchase of Goodwill",
                 "d": "Interest on Long Term Borrowings ADVANCED ACCOUNTING"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Purchase of Goodwill",
+              "reasoning": "Purchase of Goodwill would be considered as a 'Cash Flow item from an | Investing Activities"
             }
           ]
         },
@@ -332,9 +332,9 @@
                 "c": "The value of inventory will be ₹ 12,00,000, and the fact that valuation method has changed to be disclosed in the financial statement.",
                 "d": "The value of inventory will be ₹ 8,80,000, and full disclosure with the amount the valuation method has changed to be disclosed in the financial statement."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Year 1 : 23.5% and Year 2:65%",
+              "reasoning": "At the end of year 1 Revised Contract Cost = 150 crores | Actual cost incurred = ₹ 35.25 crores | Stage of completion = 35.25/ 150 x 100 = 23.5% | At the end of year 2, Revised contract cost =150+75=225 crores | Actual cost incurred = ₹ 148.50- ₹ 2.25 crores = 146.25 crores | Stage of completion = 146.25 / 225 x 100 = 65%"
             }
           ]
         },
@@ -351,9 +351,9 @@
                 "c": "Profit and Loss A/c to be debited with ₹ 2 lakhs and Bank A/c to be credited with ₹ 2 lakhs.",
                 "d": "Profit and Loss A/c to be debited with ₹ 1.75 lakhs and Bank A/c to be credited with ₹ 1.75 lakhs."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "Reserve and Surplus - ₹ 80 lakhs only",
+              "reasoning": "Schedule III requires that: Debit balance of Statement of Profit & Loss | must be shown as a negative figure under “Reserves & Surplus” not as an | asset. It should be adjusted against the credit balances of reserves. The | net figure (even if negative) should be shown under Reserves & Surplus."
             }
           ]
         },
@@ -370,9 +370,9 @@
                 "c": "P & T",
                 "d": "P & Q"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 3,30,000",
+              "reasoning": "Total Interest -550 lakhs | Qualifying Asset Building -30 Lakhs | Interest to be capitalised 5,50,000/50,00,000 x 30,00,000 = 3,30,000"
             },
             {
               "q_no": 2,
@@ -383,9 +383,9 @@
                 "c": "P & T",
                 "d": "P & Q"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 30 lakhs",
+              "reasoning": "Grant credited to P&L 22-23 and 23-24 20/4x2 10 Lakhs. | Remaining amount 20-10-10 lakhs debited to deferred grant account."
             },
             {
               "q_no": 3,
@@ -396,9 +396,9 @@
                 "c": "P & T",
                 "d": "P & Q"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "(1), (2) and 3",
+              "reasoning": "A (i), (ii) and (iii)"
             },
             {
               "q_no": 4,
@@ -409,9 +409,9 @@
                 "c": "P & T",
                 "d": "P & Q"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 18 lakhs is charged as an expense in the Statement of Profit and Loss.",
+              "reasoning": "₹ 18 Lakhs is charged as an expense in the Profit & Loss Account."
             }
           ]
         },
@@ -428,9 +428,9 @@
                 "c": "₹ 68,35,000",
                 "d": "₹ 58,60,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 61,85,000",
+              "reasoning": "Particulars | Amount | Purchase Price | ₹ 45,00,000 | Add: Estimated Dismantling Costs to be incurred after 5 years | 3,25,000 | Initial Delivery and Handling Costs | ₹ 1,85,000 | Cost of Site Preparation | ₹ 5,00,000 | Consultants used for advice on the acquisition of the Plant | ₹ 6,75,000 | Total Capitalization Cost of Assets | ₹ 61,85,000 | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -447,9 +447,9 @@
                 "c": "₹ 3,25,000",
                 "d": "₹ 3,50,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "Nil",
+              "reasoning": "Borrowing cost will be capitalised as per paragraphs 6 and 7 of AS 16 and | not charged to P&L."
             }
           ]
         },
@@ -466,9 +466,9 @@
                 "c": "₹ 2,37,400 approx",
                 "d": "₹ 2,27,700 approx"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 2,37,400 approx",
+              "reasoning": "The present value of lease payments including guaranteed residual value | of ₹ 20,000 is ₹ 2,37,400 approx. machinery should be recognised at lower | of its fair value and PV of lease payments. The estimation of lessor is | irrelevant and only guaranteed and unguaranteed value will be | considered. | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -485,9 +485,9 @@
                 "c": "Revenue should be recognized on dispatch of components. The assessment would change where inspection is normally known to lead to no quality rejections.",
                 "d": "Revenue should be recognized on delivery of the component to the Railways’ stockyard. The assessment would change where inspection is normally known to lead to no quality rejections."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Revenue should be recognized on completion of inspection of components. The assessment would not change even in case where inspection is normally known to lead to no quality rejections.",
+              "reasoning": "As per AS 9, revenue should be recognized once the significant risks & | rewards are transferred which would take place after inspection."
             },
             {
               "q_no": 2,
@@ -498,9 +498,9 @@
                 "c": "LPP should record gross income from advertisement through media and preparation of advertisement material and gross amount of payments to media and expenditure incurred for creation of an advertisement.",
                 "d": "LPP may record this on net or gross basis depending on its accounting policy."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "LPP should record gross income from advertisement through media and preparation of advertisement material and gross amount of payments to media and expenditure incurred for creation of an advertisement.",
+              "reasoning": "As per AS 9, LPP is acting as the principal and hence gross basis of | accounting would be followed."
             },
             {
               "q_no": 3,
@@ -511,9 +511,9 @@
                 "c": "v.",
                 "d": "i, iii and iv."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "ii.",
+              "reasoning": "As per AS 4, Events occurring after the balance sheet date are those | significant events, both favourable and unfavourable, that occur between | the balance sheet date and the date on which the financial statements are | approved by the Board of Directors in the case of a company, and, by the | corresponding approving authority in the case of any other entity. All the | events other than (ii) occurred only after the balance sheet date and those | events did not provide any further evidence of conditions that existed at | the balance sheet date. | ADVANCED ACCOUNTING"
             },
             {
               "q_no": 4,
@@ -524,9 +524,9 @@
                 "c": "Distribution of dividend out of grant is correct. In the second case, land should be recorded in the books of accounts at a nominal value.",
                 "d": "Distribution of dividend out of grant is incorrect. In the second case, land should be recorded in the books of accounts at a nominal value."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "Distribution of dividend out of grant is incorrect. In the second case, land should be recorded in the books of accounts at a nominal value.",
+              "reasoning": "As per AS 12, grants should be utilized only for the purposes for which | they have been received by the entity and hence any distribution of | dividend in the above mentioned case in inappropriate. Further, land is | non-monetary government grant. Government grants may take the form | of non-monetary assets, such as land or other resources, given at | concessional rates. In these circumstances, it is usual to account for such | assets at their acquisition cost. Non-monetary assets given free of cost | are recorded at a nominal value."
             }
           ]
         },
@@ -543,9 +543,9 @@
                 "c": "₹ 2,00,000",
                 "d": "₹ 2,30,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 2,17,500",
+              "reasoning": "As per AS 9, in cases where installation fees are other than incidental to | the sale of a product, they should be recognised as revenue only when | the equipment is installed and accepted by the customer. Thus, revenue | will be recognised excluding installation charges. Further, as per AS 9, | trade discount are not encompassed with revenue. The revenue for F.Y. | 23-24 will be: 5 *(₹ 45000-500-1000) = ₹ 2,17,500)"
             },
             {
               "q_no": 2,
@@ -556,9 +556,9 @@
                 "c": "₹ 10,000",
                 "d": "₹ 2,40,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 5,000",
+              "reasoning": "As per AS 9, in cases where installation fees are other than incidental to | the sale of a product, they should be recognised as revenue only when | the equipment is installed and accepted by the customer. Thus, revenue | pertaining to installation should be recognised when ACs are installed.)"
             },
             {
               "q_no": 3,
@@ -569,9 +569,9 @@
                 "c": "Trade discount will be recognised after one year, when the warranty will be over.",
                 "d": "Trade discount will be recognised after installation is complete."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "The trade discounts are deducted in determining the revenue.",
+              "reasoning": "As per AS 9, trade discount should be deducted in determining revenue.)"
             },
             {
               "q_no": 4,
@@ -582,9 +582,9 @@
                 "c": "Accounting for claims will be done on cash basis i.e. expense will be recognised when expense is made.",
                 "d": "As the Company is not charging separately for the warranty provided, there is no need to create any provision."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "As there exist a present obligation to provide warranty to customers for 1 year, the Company should estimate the amount that it may have to incur considering various factors including past trends and create a provision as per AS 29.",
+              "reasoning": "As per paragraph 14 of AS 29, a provision should be recognised when | there exists present obligation to act or perform in a certain way and other | conditions for its recognition under AS 29 are satisfied. Here, the | Company can estimate the amount that it may have to incur considering | past trends and make a provision. | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -601,9 +601,9 @@
                 "c": "Head office expenses",
                 "d": "Borrowing cost"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Head office expenses",
+              "reasoning": "As per paragraph 17(b) of AS 10 states that the cost of an item of Property, | Plant and Equipment comprises any cost directly attributable to bringing | the asset to the location and condition necessary for it to be capable of | operating in the manner intended by management. Head office is | generally used for the overall supervision, planning etc. which are not | directly related to construction. | ADVANCED ACCOUNTING"
             },
             {
               "q_no": 2,
@@ -614,9 +614,9 @@
                 "c": "₹ 7,00,000",
                 "d": "₹ 6,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 2,00,000",
+              "reasoning": "As per Paragraph 17 of AS 16 states that capitalisation of borrowing cost | should be suspended during extended periods to which active | development is interrupted. Thus, interest cost from November 1, 2023 to | February 28, 2024 will not be capitalised. Interest for only 8 months will | be capitalised (₹ 25,00,000*12%*8/12)"
             },
             {
               "q_no": 3,
@@ -627,9 +627,9 @@
                 "c": "₹ 93,00,000",
                 "d": "₹ 95,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 93,00,000",
+              "reasoning": "As per paragraph 17(b) of AS 10 states that the cost of an item of Property, | Plant and Equipment comprises any cost directly attributable to bringing | the asset to the location and condition necessary for it to be capable of | operating in the manner intended by management. Thus, directly | attributable costs in this case are cost of land ₹ 50,00,000, cost of material | and direct labour ₹ 35,00,000, devices installed due to government order | ₹ 6,00,000 and borrowing cost ₹ 2,00,000 as per paragraph 6 of AS 16."
             },
             {
               "q_no": 4,
@@ -640,9 +640,9 @@
                 "c": "₹ 9,80,000",
                 "d": "Nil"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "Nil",
+              "reasoning": "As per paragraph 57 of AS 10, Depreciation of an asset begins when it is | available for use, i.e., when it is in the location and condition necessary | for it to be capable of operating in the manner intended by management. | As the construction is not yet complete and the asset is not available for | use, the depreciation will not start."
             }
           ]
         },
@@ -659,9 +659,9 @@
                 "c": "Cash Flow from Financing Activities",
                 "d": "Non-cash Items"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Cash Flow from Operating Activities",
+              "reasoning": "As per Paragraph 30 of AS 3 states that Cash flows from interest and | dividends received and paid should each be disclosed separately. Cash | flows arising from interest paid and interest and dividends received in the | case of a financial enterprise should be classified as cash flows arising | from operating activities."
             },
             {
               "q_no": 2,
@@ -672,9 +672,9 @@
                 "c": "Cash Flow from Financing Activities",
                 "d": "Non-cash Items ADVANCED ACCOUNTING"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Cash Flow from Operating Activities",
+              "reasoning": "As per Paragraph 30 of AS 3 states that Cash flows from interest and | dividends received and paid should each be disclosed separately. Cash | flows arising from interest paid and interest and dividends received in the | case of a financial enterprise should be classified as cash flows arising | from operating activities. So, it will also be disclosed as cash flow from | operating activities"
             },
             {
               "q_no": 3,
@@ -685,9 +685,9 @@
                 "c": "Cash Flow from Financing Activities",
                 "d": "Non-cash Items"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Cash Flow from Investing Activities",
+              "reasoning": "As per paragraph 37 of AS 3, the aggregate cash flows arising from | acquisitions and from disposals of subsidiaries or other business units | should be presented separately and classified as investing activities. This | is acquisition of business, so the same should be disclosed as Cash Flow | from investing activities."
             },
             {
               "q_no": 4,
@@ -698,9 +698,9 @@
                 "c": "Cash Flow from Financing Activities",
                 "d": "Non-cash Items"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Cash Flow from Operating Activities",
+              "reasoning": "As per Paragraph 34 of AS 3 states cash flows arising from taxes on | income should be separately disclosed and should be classified as cash | flows from operating activities unless they can be specifically identified | with financing and investing activities. Here, no information is provided | as to which activity the tax belongs so it will be disclosed as cash flow | from operating activities"
             },
             {
               "q_no": 5,
@@ -711,9 +711,9 @@
                 "c": "Yes, disclosure is required to be made as per AS 13, Accounting for Investments",
                 "d": "No specific disclosures are required."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Yes, disclosure is required to be made as per AS 18, Related Party Disclosures",
+              "reasoning": "As per paragraph 10.1 of AS 18, Related party is defined as parties are | considered to be related if at any time during the reporting period one | party has the ability to control the other party or exercise significant | influence over the other party in making financial and/or operating | decisions. | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -730,9 +730,9 @@
                 "c": "₹ 10 Lakhs",
                 "d": "₹ 45 Lakhs"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 10 Lakhs",
+              "reasoning": "As per Paragraph 7 of AS 12 states that Non-monetary assets given free | of cost are recorded at a nominal value.)"
             },
             {
               "q_no": 2,
@@ -743,9 +743,9 @@
                 "c": "It will be treated as deferred income.",
                 "d": "It will not be recognised in the financial statements."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "It will be treated as capital reserve",
+              "reasoning": "As per Paragraph 10.1 of AS 12, where the government grants are of the | nature of promoters’ contribution, i.e., they are given with reference to | the total investment in an undertaking or by way of contribution towards | its total capital outlay (for example, central investment subsidy scheme) | and no repayment is ordinarily expected in respect thereof, the grants are | treated as capital reserve which can be neither distributed as dividend nor | considered as deferred income.)"
             },
             {
               "q_no": 3,
@@ -756,9 +756,9 @@
                 "c": "Deferred Income",
                 "d": "Income in statement of profit and loss as received."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Deferred Income",
+              "reasoning": "As per Paragraph 8.4 of AS 12 states that under the other method, grants | related to depreciable assets are treated as deferred income which is | ADVANCED ACCOUNTING | recognised in the statement of profit and loss on a systematic and rational | basis over the useful life of the asset. | As there are two methods of presentation allowed, we have used ‘may’ in | the question"
             },
             {
               "q_no": 4,
@@ -769,9 +769,9 @@
                 "c": "Government Grant of ₹ 15 Lakhs with a condition to purchase machinery",
                 "d": "Noe of the above"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Government Grant of ₹ 15 Lakhs with a condition to purchase machinery",
+              "reasoning": "As per Paragraph 8.4 of AS 12 states that grants related to depreciable | assets are treated as deferred income which is recognised in the | statement of profit and loss on a systematic and rational basis over the | useful life of the asset."
             }
           ]
         },
@@ -788,9 +788,9 @@
                 "c": "₹ 10 lakhs as ‘Cash flows from Investing Activities’ and ₹ 30,000 as ‘Cash flows from Financing Activities’.",
                 "d": "₹ 10.30 lakhs as ‘Cash flows from Financing Activities’ as the machinery has been purchased on finance."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 10 lakhs as ‘Cash flows from Investing Activities’ and ₹ 30,000 as ‘Cash flows from Financing Activities’",
+              "reasoning": "As per AS 3, Interest paid to vendor for acquiring fixed asset under | deferred payment basis should be presented as financing activities and | Principal sum payment under deferred payment basis for acquisition of | fixed assets should be presented as investing activities."
             },
             {
               "q_no": 2,
@@ -801,9 +801,9 @@
                 "c": "₹ 600,000",
                 "d": "₹ 10,00,000 ADVANCED ACCOUNTING"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 10,00,000",
+              "reasoning": "As per paragraph 6 of AS 16, Borrowing costs that are directly attributable | to the acquisition, construction or production of a qualifying asset should | be capitalised as part of the cost of that asset. The amount of borrowing | costs eligible for capitalisation should be determined in accordance with | this Standard. Other borrowing costs should be recognised as an expense | in the period in which they are incurred. In this case, the machinery has | been purchased and it is readily usable, thus, it is not a qualifying asset | and thus, interest cost should not be capitalised."
             },
             {
               "q_no": 3,
@@ -814,9 +814,9 @@
                 "c": "Cash flows from Financing Activities",
                 "d": "No disclosure in Cash Flow Statement"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Cash flows from Investing Activities",
+              "reasoning": "As per Paragraph 34 of AS 3, Cash flows arising from taxes on income | should be separately disclosed and should be classified as cash flows from | operating activities unless they can be specifically identified with | financing and investing activities. The sale of PPE is cash flow from | investing activities and accordingly, taxes paid on same should be | disclosed as investing activities."
             },
             {
               "q_no": 4,
@@ -827,9 +827,9 @@
                 "c": "Cash flows from Financing Activities",
                 "d": "No disclosure in Cash Flow Statement"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Cash flows from Investing Activities",
+              "reasoning": "These interest pertain to income taxes and are not arising from the | principle revenue-producing activities, therefore, should be disclosed as | per paragraph 30 of AS 3. | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -846,9 +846,9 @@
                 "c": "Depends on the accounting policy of the Company.",
                 "d": "Indian GAAP allows a choice to the Company to recognize revenue on gross basis or net basis."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Gross basis.",
+              "reasoning": "As per the requirements of AS 9, SEAS Ltd is acting as a principal and not | an agent. Therefore, it would recognize revenue on gross basis."
             },
             {
               "q_no": 2,
@@ -859,9 +859,9 @@
                 "c": "No accounting will be done during the year ended 31 March 2024.",
                 "d": "Premium on contract will be amortized over the life of the contract."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "Premium on contract will be amortized over the life of the contract.",
+              "reasoning": "As per the requirements of AS 11, any premium or discount arising at the | inception of a forward exchange contract (which is not intended for | trading or speculation purposes) should be amortised as expense or | income over the life of the contract."
             },
             {
               "q_no": 3,
@@ -872,9 +872,9 @@
                 "c": "1 – Not a change in accounting policy. 2 – Not a change in accounting policy.",
                 "d": "1– Change in accounting policy. 2 – Not a change in accounting policy. ADVANCED ACCOUNTING"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "1 – Not a change in accounting policy. 2 – Not a change in accounting policy",
+              "reasoning": "Reasoning: As per the requirements of AS 5, the following are not | considered as changes in accounting policies: | (a) | the adoption of an accounting policy for events or transactions that | differ in substance from previously occurring events or transactions, | e.g., the introduction of a formal retirement gratuity scheme by an | employer in place of adhoc ex-gratia payments to employees on | retirement; and | (b) | the adoption of a new accounting policy for events or transactions | which did not occur previously or that were immaterial. | Schemes (i) and (ii) are the events or transactions which did not occur and | are different from previously occurred transactions."
             },
             {
               "q_no": 4,
@@ -885,9 +885,9 @@
                 "c": "ADI Ltd. would account for 23% share in ASOC Ltd using equity method of accounting. SEAS Ltd. would consolidate ADI Ltd.  and consequently, automatically account for ASOC Ltd 23% share and separately account for 9% share in ASOC Ltd. using equity method of accounting in consolidated financial statements.",
                 "d": "ADI Ltd. would account for 23% in ASOC Ltd.  as per AS 13. SEAS Ltd. would consolidate ADI Ltd. and using equity method of accounting 23% in ASOC Ltd. and separately account for the balance 9% as per AS 13."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "ADI Ltd. would account for 23% share in ASOC Ltd using equity method of accounting. SEAS Ltd. would consolidate ADI Ltd. and consequently, automatically account for ASOC Ltd 23% share and separately account for 9% share in ASOC Ltd. using equity method of accounting in consolidated financial statements.",
+              "reasoning": "Since ADI Ltd hold 23% ASOC Ltd, it would do equity accounting in | respect of ASOC Ltd as per AS 23. | Since, ADI Ltd is a subsidiary of SEAS Ltd, SEAS Ltd would consolidate ADI | Ltd on a line by line basis wherein 23% of ASOC Ltd held by ADI Ltd in | ASOC Ltd would automatically get covered. Further, the balance 9% held | by SEAS Ltd in ASOC Ltd would also be required to be consolidated using | equity method of accounting as per AS 23. | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -904,9 +904,9 @@
                 "c": "₹ 80,000 costs of inauguration ceremony",
                 "d": "₹ 24,000 – allocated general overhead cost"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 2,00,000 incurred as legal cost",
+              "reasoning": "Legal costs of 2,00,000 are directly attributable to the acquisition of land | and are already included in the cost of the land, not the factory building."
             },
             {
               "q_no": 2,
@@ -917,9 +917,9 @@
                 "c": "₹ 2,32,000",
                 "d": "₹ 29,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 2,32,000",
+              "reasoning": "Employment costs of ₹ 29,000 per month incurred from May 2022 to | December 2022 (8 months) would be capitalized, as these are directly | attributable to construction. Employment cost capitalized = 29,000 × 8 | = 2,32,000"
             },
             {
               "q_no": 3,
@@ -930,8 +930,8 @@
                 "c": "₹ 1,44,000",
                 "d": "₹ 1,64,000 ADVANCED ACCOUNTING"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "d",
+              "value_text": "₹ 1,64,000",
               "reasoning": ""
             },
             {
@@ -943,8 +943,8 @@
                 "c": "₹ 27,78,125",
                 "d": "₹ 58,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "b",
+              "value_text": "₹ 57,78,125 Reason for Answer 3 & 4 Cost: Land 30,00,000 Preparation, levelling 80,000 Materials 21,24,000 Costs of Construction workers (29,000 x 8 months) 2,32,000 Direct overhead (25,000 x 8 months) 2,00,000 Allocated overheads nil Relocation costs, costs of inauguration Nil Net borrowing costs (1,89,000 less 25,000) 1,64,000 Total 58,00,000 Carrying amount: Land Factory 30,00,000 28,00,000 Depreciation: Land Roof (28,00,000 x .25x1/20 x 3/12) Remaining factory (28,00,000 x .75x1/40 x 3/12) Nil - 8,750 13,125 (21,875) 27,78,125 ADVANCED ACCOUNTING",
               "reasoning": ""
             }
           ]
@@ -962,9 +962,9 @@
                 "c": "25,000",
                 "d": "30,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "31,250",
+              "reasoning": "Determination of Buy-back of maximum no. of shares as per the | Companies Act, 2013 | Shares Outstanding Test | Particulars | (Shares) | Number of shares outstanding | 1,25,000 | 25% of the shares outstanding | 31,250 | ADVANCED ACCOUNTING"
             },
             {
               "q_no": 2,
@@ -975,9 +975,9 @@
                 "c": "28,750",
                 "d": "39,062"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "39,062",
+              "reasoning": "Resources Test: Maximum permitted limit 25% of Equity paid up capital + | Free Reserves | Particulars | Paid up capital (₹) | 12,50,000 | Free reserves (₹) (15,00,000 + 2,50,000 + 1,25,000) | 18,75,000 | Shareholders’ funds (₹) | 31,25,000 | 25% of Shareholders fund (₹) | 7,81,250 | Buy-back price per share | ₹ 20 | Number of shares that can be bought back (shares) | Actual Number of shares for buy-back | 39,062 | 25,000"
             },
             {
               "q_no": 3,
@@ -988,9 +988,9 @@
                 "c": "28,750",
                 "d": "39,062"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "28,750",
+              "reasoning": "Debt Equity Ratio Test: Loans cannot be in excess of twice the Equity | Funds post Buy-Back | Particulars | ₹ | (a) | Loan funds (₹) (18,75,000 + 10,00,000 + 16,50,000) | 45,25,000 | (b) | Minimum equity to be maintained after buy-back in | the ratio of 2:1 (₹) (a/2) | 22,62,500 | (c) | Present equity/shareholders fund (₹) | 31,25,000 | (d) | Future equity/shareholders fund (₹) (see W.N.) | (31,25,000 – 2,87,500) | 28,37,5002F∗ | (e) | Maximum permitted buy-back of Equity (₹) [(d) – (b)] | 5,75,000 | ∗As per Section 68 (2) (d) of the Companies Act 2013, the ratio of debt owed by the company should not be more | than twice the capital and its free reserves after such buy-back. Further under Section 69 (1), on buy-back of | shares out of free reserves a sum equal to the nominal value of the share bought back shall be transferred to | Capital Redemption Reserve (CRR). As per section 69 (2) utilization of CRR is restricted to fully paying up unissued | shares of the Company which are to be issued as fully paid-up bonus shares only. It means CRR is not available | for distribution as dividend. Hence, CRR is not a free reserve. Therefore, for calculation of future equity i.e. share | capital and free reserves, amount transferred to CRR on buy-back has to be excluded from the present equity. | (f) | Maximum number of shares that can be bought back | @ ₹ 20 per share | 28,750 | shares | (g) | Actual Buy-Back Proposed | 25,000 | Shares"
             },
             {
               "q_no": 4,
@@ -1001,9 +1001,9 @@
                 "c": "28,750",
                 "d": "39,062"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "28,750",
+              "reasoning": "Summary statement determining the maximum number of shares to be | bought back | Particulars | Number of shares | Shares Outstanding Test | 31,250 | Resources Test | 39,062 | Debt Equity Ratio Test | 28,750 | Maximum number of shares that can be bought | back [least of the above] | 28,750 | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -1020,8 +1020,8 @@
                 "c": "₹ 32,50,000",
                 "d": "₹ 6,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "b",
+              "value_text": "₹ 21,00,000",
               "reasoning": ""
             },
             {
@@ -1033,8 +1033,8 @@
                 "c": "₹ 12,95,000",
                 "d": "₹ 59,85,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "a",
+              "value_text": "₹ 38,85,000",
               "reasoning": ""
             },
             {
@@ -1046,8 +1046,8 @@
                 "c": "2,00,000",
                 "d": "78,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "b",
+              "value_text": "1,29,500 Reason: 1,2 & 3: Debt Equity Ratio Test Particulars ₹ (a) Loan funds 42,00,000 (b) Minimum equity to be maintained after buy-back in the ratio of 2:1 (₹ in crores) 21,00,000 (c) Present equity shareholders fund (₹ in crores) 72,80,000 ADVANCED ACCOUNTING (d) Future equity shareholder fund (₹ in crores) (See Note 2) 59,85,000 (72,80,000-12,95,000) (e) Maximum permitted buy-back of Equity (₹ in crores) [(d) – (b)] (See Note 2) 38,85,000 (by simultaneous equation) (f) Maximum number of shares that can be bought back @ ₹ 30 per share (shares in crores) (See Note 2) 1,29,500 (by simultaneous equation) Working Note:",
               "reasoning": ""
             }
           ]
@@ -1065,9 +1065,9 @@
                 "c": "25% of its total paid-up capital",
                 "d": "20% of its total paid-up capital ADVANCED ACCOUNTING"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "25% of its total paid-up capital and free reserves",
+              "reasoning": "As per The Companies Act, 2013 under Section 68 (2) the buy-back of | shares in any financial year must not exceed 25% of its total paid-up | capital and free reserves."
             },
             {
               "q_no": 2,
@@ -1078,9 +1078,9 @@
                 "c": "37,500 shares",
                 "d": "54,375 shares"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "42,500 shares",
+              "reasoning": "According to the Shares Outstanding Test, the maximum number of | shares that can be bought back is 25% of the shares outstanding. With | 1,70,000 shares outstanding, 25% equals 42,500 shares."
             },
             {
               "q_no": 3,
@@ -1091,9 +1091,9 @@
                 "c": "37,500 shares",
                 "d": "54,375 shares"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "37,500 shares",
+              "reasoning": "According to the Resources Test, the maximum permitted limit is 25% of | the equity paid-up capital plus free reserves. Calculating this gives 25% of | ₹ 45,00,000 (₹ 17,00,000 + ₹ 28,00,000), which is ₹ 11,25,000. At ₹ 30 per | share, this equals 37,500 shares."
             },
             {
               "q_no": 4,
@@ -1104,9 +1104,9 @@
                 "c": "37,500 shares",
                 "d": "54,375 shares"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "54,375 shares",
+              "reasoning": "According to the Debt Equity Ratio Test, the maximum number of shares | that can be bought back is determined by ensuring that the company's | post-buyback loans do not exceed twice the equity shareholders' funds. | This calculation shows a maximum buyback of 54,375 shares. | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -1123,8 +1123,8 @@
                 "c": "₹ 39,00,000",
                 "d": "₹ 31,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "a",
+              "value_text": "₹ 36,00,000",
               "reasoning": ""
             },
             {
@@ -1136,8 +1136,8 @@
                 "c": "₹ 2,38,000",
                 "d": "₹ 2,59,700"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "d",
+              "value_text": "₹ 2,59,700",
               "reasoning": ""
             },
             {
@@ -1149,8 +1149,8 @@
                 "c": "₹ 185.5",
                 "d": "₹ 189.4"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "c",
+              "value_text": "₹ 185.5",
               "reasoning": ""
             },
             {
@@ -1162,8 +1162,8 @@
                 "c": "₹ 74,200 appox",
                 "d": "₹ 75,760 approx"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "c",
+              "value_text": "₹ 74,200 Reason for 1,2,3 & 4: Cost of Material 20,000 kg @ ₹ (170-15) = ₹ 31,00,000 Direct cost = ₹ 5,00,000 Total cost = ₹ 36,00,000 Units Units purchased = 20,000 Kg Normal loss @3% = 600 Kg Units received = 19,000 Kg Abnormal loss = 400 Kg (20,000-600-19000) Cost per unit ₹ 36,00,000/19,400 units = ₹ 185.5 per unit Abnormal loss to be charged to profit and loss = 400Kg * ₹ 185.5 = ₹ 74,200 Value of closing stock Closing units = 19,000-17,600 = 1400 units Value = 1400*₹ 185.5 = 2,59,700 ADVANCED ACCOUNTING",
               "reasoning": ""
             }
           ]
@@ -1181,9 +1181,9 @@
                 "c": "₹ 2,000 lakhs Loss",
                 "d": "₹ 1,000 lakhs Loss"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 1,000 lakhs Profit",
+              "reasoning": "The market value of investment | ₹ (lakh) | Sale value of investment | 3,000 | Less: The cost value of investment (3,000/1,500 x 1,000) | 2,000 | Proﬁt | 1,000"
             },
             {
               "q_no": 2,
@@ -1194,9 +1194,9 @@
                 "c": "Can’t utilize securities premium for buyback",
                 "d": "₹ 350 lakhs"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 550 lakhs",
+              "reasoning": "₹ (lacs) | Securities premium | Less: premium on redemption of preference shares | Balance available"
             },
             {
               "q_no": 3,
@@ -1207,9 +1207,9 @@
                 "c": "₹ 3,250 lakhs",
                 "d": "₹ 900 lakhs"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 900 lakhs",
+              "reasoning": "Opening Balance + Investment sold + Loan raised- Preference Shares | redeemed- Equity Share buy back Lakhs [ ₹ 1,650 + ₹ 3,000 + ₹ 2,000 - | ₹ 2,750 - ₹ 3,000] = ₹ 900 lakhs | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -1226,9 +1226,9 @@
                 "c": "September 2023 (When the implementation work should have completed as per agreed terms)",
                 "d": "May 2024 (When the SAP actually got implemented)"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "May 2024 (When the SAP actually got implemented)",
+              "reasoning": "As per the provision of AS 26."
             },
             {
               "q_no": 2,
@@ -1239,9 +1239,9 @@
                 "c": "₹ 23,00,000",
                 "d": "₹ 32,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 23,00,000",
+              "reasoning": "₹ 25,00,000 less the amount refunded i.e. ₹ 200,000 = ₹ 23,00,000"
             },
             {
               "q_no": 3,
@@ -1252,9 +1252,9 @@
                 "c": "Should be recognised as expense in Profit and Loss annually.",
                 "d": "No accounting is required"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Should be recognised as expense in Profit and Loss annually.",
+              "reasoning": "As per paragraph 59 of AS 26, subsequent expenditure on an intangible | asset after its completion should be recognised as expense as it is only | normal maintenance expense"
             },
             {
               "q_no": 4,
@@ -1265,9 +1265,9 @@
                 "c": "It will only be disclosed in notes to accounts and will be recognised when complete",
                 "d": "It will be recognised as an item of Property, Plant and Equipment"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "It will be recognised as an asset ‘Intangible asset under development’.",
+              "reasoning": "Till the asset is complete it will be recognised as ‘intangible asset under | development’ till the same is available for use. | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -1284,8 +1284,8 @@
                 "c": "₹ 7,34,383 approx",
                 "d": "₹ 7,50,000 approx"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "c",
+              "value_text": "₹ 7,34,383 approx",
               "reasoning": ""
             },
             {
@@ -1297,8 +1297,8 @@
                 "c": "Gain of ₹ 19,395 approx",
                 "d": "Loss of ₹ 19,395 approx"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "a",
+              "value_text": "Gain of ₹ 34,383 approx",
               "reasoning": ""
             },
             {
@@ -1310,8 +1310,8 @@
                 "c": "₹ 9,79,002 approx",
                 "d": "₹ 10,79,002 approx"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "b",
+              "value_text": "₹ 10,27,127 approx",
               "reasoning": ""
             },
             {
@@ -1323,8 +1323,8 @@
                 "c": "Gain of ₹ 27,127 approx",
                 "d": "Loss of ₹ 27,127 approx"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "c",
+              "value_text": "Gain of ₹ 27,127 approx Reason for 1, 2, 3, & 4: Trade Receivable Foreign Currency Rate In INR Initial recognition of Trade Receivables = US$ 8816 (7,00,000/79.4) US $ 1 = 79.4 700,000 Rate on 31st March US $ 1 = 83.3 7,34,383 Exchange Difference Gain US $8816* (83.3-79.4) 34,383 Loan Foreign Currency Rate In INR Initial recognition of Loan = US$ 12330 (10,00,000/81.1) US $ 1 = 81.1 10,00,000 Rate on 31st March US $ 1 = 83.3 10,27,127 Exchange Difference Gain US $12330* (83.3-81.1) 27,127 ADVANCED ACCOUNTING",
               "reasoning": ""
             }
           ]
@@ -1342,8 +1342,8 @@
                 "c": "₹ 3,00,000",
                 "d": "₹ 3,30,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "b",
+              "value_text": "₹ 2,27,250",
               "reasoning": ""
             },
             {
@@ -1355,8 +1355,8 @@
                 "c": "Nil",
                 "d": "₹ 1,01,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "c",
+              "value_text": "Nil",
               "reasoning": ""
             },
             {
@@ -1368,8 +1368,8 @@
                 "c": "₹ 34,250",
                 "d": "₹ 1,01,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "c",
+              "value_text": "₹ 34,250",
               "reasoning": ""
             },
             {
@@ -1381,8 +1381,8 @@
                 "c": "₹ 2,20,000",
                 "d": "₹ 3,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "a",
+              "value_text": "₹ 2,10,000 Reason for 1, 2, 3, & 4: Cost of 3,000 shares = (3,000*100) + 1% (3,000*100) = ₹ 3,03,000 Bonus shares = 1,000 at no cost Profit on sale of 1,000 shares: (110*1,000) – (1,000/4,000*3,03,000) =1,10,000 - 75,750 = ₹ 34,250 Carrying value of 3000 shares = 3,000/4,000*3,03,000 = ₹ 2,27,250 Market value of shares = 3,000*95 = ₹ 2,85,000 Cost being lower than the market price, therefore shares are carried forward at cost. ADVANCED ACCOUNTING",
               "reasoning": ""
             }
           ]
@@ -1400,8 +1400,8 @@
                 "c": "Moon Ltd. is an associate of Sun Ltd.",
                 "d": "Sun Ltd. is Parent of both Moon Ltd. and Star Ltd."
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "a",
+              "value_text": "₹ 2,000 (b) ₹ 5,000 (c) ₹ 12,000 (d) ₹ 15,000",
               "reasoning": ""
             },
             {
@@ -1413,9 +1413,9 @@
                 "c": "₹ 4,68,000",
                 "d": "₹ 5,32,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 22,000",
+              "reasoning": "₹ 10,000 (Dividend) + ₹ 12,000 (Proceeds from Sale of Plant and | Machinery)"
             },
             {
               "q_no": 3,
@@ -1426,9 +1426,9 @@
                 "c": "₹ 4,52,000",
                 "d": "₹ 6,20,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 1,92,500",
+              "reasoning": "₹ | Opening Cash | 65,500 | Operating cost flows (₹ 3,000+ ₹ 16,000- ₹14,000) | 5,000 | Investing Cash flows (₹10,000+ ₹ 12,000) | 22,000 | Financing Cash flows Closing cash + Cash Equivalent | 1,00,000 | 1,92,500"
             },
             {
               "q_no": 4,
@@ -1439,8 +1439,8 @@
                 "c": "Statements (b), (c) and (d) are correct",
                 "d": "Statements (a), (b) and (d) are correct"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "c",
+              "value_text": "₹ 5,50,000 ₹ Opening Capital 5,00,000 New capital issued 1,00,000 Issued to Debenture holder 1,50,000 Capital Surrendered (2,00,000) 5,50,000",
               "reasoning": ""
             }
           ]
@@ -1458,9 +1458,9 @@
                 "c": "Exclude the sale from the financial statements entirely.",
                 "d": "Treat it as an extraordinary item in the 20X1-20X2 financial statements."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Recognize ₹1,50,000 profit in the 20X0-20X1 financial statements.",
+              "reasoning": "The contract exchange occurred before 31st March, 20X1, making it an | adjusting event. The sale's impact must be reflected in the financial | statements for 20X0-20X1."
             },
             {
               "q_no": 2,
@@ -1471,9 +1471,9 @@
                 "c": "Disclose it as a non-adjusting event in the notes to accounts.",
                 "d": "Ignore the event entirely."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Disclose it as a non-adjusting event in the notes to accounts.",
+              "reasoning": "The dividend was declared after 31st March, 20X1. As per AS 4, it is a non- | adjusting event and must be disclosed in the notes."
             },
             {
               "q_no": 3,
@@ -1484,9 +1484,9 @@
                 "c": "Disclose it as a non-adjusting event in the financial statements.",
                 "d": "Ignore the closure since it occurred after the approval date."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Disclose it as a non-adjusting event in the financial statements.",
+              "reasoning": "The closure decision was made after 31st March, 20X1, and is a non- | adjusting event requiring disclosure to ensure user understanding."
             },
             {
               "q_no": 4,
@@ -1497,9 +1497,9 @@
                 "c": "Ignore the incident since it occurred after the year-end.",
                 "d": "Treat it as an extraordinary item in the 20X1-20X2 financial statements."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Disclose it as a non-adjusting event with a note about insurance coverage.",
+              "reasoning": "The fire occurred after 31st March, 20X1, making it a non-adjusting event. | Disclosure is required, especially given the insurance coverage."
             },
             {
               "q_no": 5,
@@ -1510,9 +1510,9 @@
                 "c": "Recognize the full amount as an expense in the financial statements.",
                 "d": "Ignore the claim since it is deemed baseless."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Disclose it as a contingent liability and provide for estimated legal fees.",
+              "reasoning": "The claim is considered baseless but must be disclosed as a contingent | liability per AS 4. Legal fees should be provided if not recoverable. | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -1529,9 +1529,9 @@
                 "c": "Deduct it from the cost of the generator in the financial year 20X2-20X3.",
                 "d": "Ignore it as it relates to a past financial year."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Deduct it from the cost of the generator in the financial year 20X2-20X3.",
+              "reasoning": "As per AS 12, a grant can only be recognized when there is reasonable | assurance of compliance with conditions and receipt of the subsidy. Since | the subsidy was sanctioned after 31st March, 20X2, and after accounts for | 20X1-20X2 were approved, it cannot be treated as an adjusting event for | 20X1-20X2. It must be accounted for in 20X2-20X3 by deducting it from | the cost of the generator."
             },
             {
               "q_no": 2,
@@ -1542,9 +1542,9 @@
                 "c": "Recognize it as deferred income in the financial year 20X2-20X3.",
                 "d": "Ignore it as the event occurred after 31st March, 20X2."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Recognize it in the financial statements for 20X1-20X2 by deducting it from the cost of the generator.",
+              "reasoning": "As per AS 4, events occurring after the balance sheet date but before | approval of accounts by the Board of Directors are adjusting events if they | confirm conditions existing at the balance sheet date. Receipt of the | sanction letter confirms the condition that the subsidy application was | valid, and hence, the subsidy should be adjusted in the financial | statements for 20X1-20X2. | ADVANCED ACCOUNTING"
             },
             {
               "q_no": 3,
@@ -1555,9 +1555,9 @@
                 "c": "Treat it as a prior period item in the financial year 20X2-20X3.",
                 "d": "Disclose it as a contingent asset in the notes for 20X1-20X2."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Recognize it in the financial statements for 20X1-20X2 by deducting it from the cost of the generator.",
+              "reasoning": "If the company has consistently received subsidies for similar applications | in the past, there is reasonable assurance as required by AS 12. In such | cases, the subsidy should have been recognized in the financial | statements for 20X1-20X2, as the past pattern provides assurance of | receipt."
             }
           ]
         },
@@ -1574,9 +1574,9 @@
                 "c": "No, the market value must always be considered for long-term investments.",
                 "d": "No, a provision for diminution must be made regardless of the cause of decline."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Yes, provided the decline in value is not other than temporary.",
+              "reasoning": "As per AS 13, long-term investments are recorded at cost unless there is | a decline other than temporary in their value. If the management can | substantiate that the decline in market value is temporary, there is no | need to create a provision for diminution."
             },
             {
               "q_no": 2,
@@ -1587,9 +1587,9 @@
                 "c": "By considering all relevant factors, such as the financial health of the investee and expected benefits.",
                 "d": "By applying a uniform threshold for decline across all investments."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "By considering all relevant factors, such as the financial health of the investee and expected benefits.",
+              "reasoning": "Per paragraph 17 of AS 13, the company must consider all relevant | factors, such as the financial and operational performance of the investee, | the expected benefits from the investment, and external economic | conditions, to assess whether the decline is other than temporary."
             },
             {
               "q_no": 3,
@@ -1600,9 +1600,9 @@
                 "c": "Directly adjusted against the investment account.",
                 "d": "As a disclosure note without impacting the financial statements."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "As a charge to the profit and loss account.",
+              "reasoning": "AS 13 requires that any provision for diminution in the value of | investments be charged to the profit and loss account. It cannot be | treated as deferred expenditure or amortized over future periods."
             },
             {
               "q_no": 4,
@@ -1613,9 +1613,9 @@
                 "c": "No, it must be included in the cost of investment as per AS 13.",
                 "d": "No, it must be expensed immediately in the profit and loss account."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "No, it must be included in the cost of investment as per AS 13.",
+              "reasoning": "As per AS 13, long-term investments are recorded at cost, which includes | any premium paid. There is no provision in AS 13 to account for the | premium separately, even if it is paid for strategic benefits. | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -1632,9 +1632,9 @@
                 "c": "₹ 5.70 crore",
                 "d": "₹ 6.20 crore"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹6.20 crore",
+              "reasoning": "The total revenue includes the fixed price (₹ 5 crore) plus adjustments for | material and labour cost escalations and the early completion incentive: | ADVANCED ACCOUNTING | ♦ | Fixed Price: ₹ 5 crore | ♦ | Material Cost Recovery: (to the extent of) 20% = ₹ 0.40 crore | ♦ | Labour costs recovery (Actual increase is less than 30%) (1.20 crore | x 25%) = ₹ 0.30 crore | ♦ | Early Completion Incentive: ₹ 0.50 crore | ♦ | Total: ₹ 6.20 crore"
             },
             {
               "q_no": 2,
@@ -1645,9 +1645,9 @@
                 "c": "Recognize at the end of the project if Sigma Builders is eligible for it.",
                 "d": "Do not recognize, as it depends on external factors."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Recognize as revenue progressively since the completion date is predictable.",
+              "reasoning": "As per AS 7 Construction Contracts, incentives for early completion can | be recognized as revenue when the company has sufficient evidence of | achieving the performance condition (completion in less than 2 years and | 10 months). Since Sigma reasonably estimated early completion, | progressive recognition is appropriate."
             },
             {
               "q_no": 3,
@@ -1658,9 +1658,9 @@
                 "c": "₹ 7.40 crore",
                 "d": "₹ 7.60 crore"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 7.40 crore",
+              "reasoning": "The total revenue includes the base contract revenue and adjustments for | additional scope and recoverable claims: | • | Base Revenue: ₹ 6.20 crore | • | Variation for Additional Floor: ₹ 1 crore | • | Claims for Local Authority Approvals: ₹ 20 lakh | • | Total: ₹ 7.40 crore"
             },
             {
               "q_no": 4,
@@ -1671,9 +1671,9 @@
                 "c": "Include it as a claim recoverable from Alpha Developers.",
                 "d": "Record it separately as deferred expenditure."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Include it as a claim recoverable from Alpha Developers.",
+              "reasoning": "The ₹ 20 lakh spent for approvals is recoverable as per the contract terms, | so it should be accounted as a claim receivable and added to the total | contract revenue."
             }
           ]
         },
@@ -1690,9 +1690,9 @@
                 "c": "Segment L, M, N & O",
                 "d": "All Segment"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "All Segment",
+              "reasoning": "Based on the 10% quantitative threshold: Revenue (L, M, N are | reportable), Profit (L, M, N, O are reportable), Assets (K, M, N, O are | reportable). Hence, all segments qualify as reportable."
             },
             {
               "q_no": 2,
@@ -1703,8 +1703,8 @@
                 "c": "Create DTL ₹ 75,000",
                 "d": "Reverse DTL ₹ 75,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "c",
+              "value_text": "Create DTL ₹ 75,000 Book value of machinery at the end of year 1: ₹15,00,000 – depreciation ₹ 7,50,000 = ₹ 7,50,000. Tax base: ₹ 15,00,000 – ₹ 10,00,000 = ₹ 5,00,000. Temporary difference: ₹ 2,50,000. DTL is created @ 30% on ₹ 2,50,000 = ₹ 75,000.",
               "reasoning": ""
             },
             {
@@ -1716,8 +1716,8 @@
                 "c": "₹ 72,00,000",
                 "d": "₹ 70,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "b",
+              "value_text": "₹ 73,00,000 Cost to be capitalized for trademark: Cost 70,00,000 Testing expenses 3,00,000 73,00,000 Expenses on promoting the new product are not capitalized",
               "reasoning": ""
             },
             {
@@ -1729,8 +1729,8 @@
                 "c": "Both A & B are permitted",
                 "d": "Credit it to General Reserve."
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "a",
+              "value_text": "Credit into capital reserve As the grant is a promoter's contribution, it is credited to the capital reserve. ADVANCED ACCOUNTING",
               "reasoning": ""
             }
           ]
@@ -1761,9 +1761,9 @@
                 "c": "₹ 1,56,250 exchange gain and ₹ 50,00,000 of foreign loan.",
                 "d": "₹ 1,56,250 exchange loss and ₹ 51,56,250 of foreign loan. ADVANCED ACCOUNTING"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 1,56,250 exchange loss and ₹ 51,56,250 of foreign loan.",
+              "reasoning": "Exchange loss = 62,500 x 2.50= 1,56,250 | This loss will be added to the value of the foreign loan amount. So, the | foreign loan amount will be increase by ₹ 1,56,250."
             },
             {
               "q_no": 3,
@@ -1774,9 +1774,9 @@
                 "c": "₹ 4.8 lakh",
                 "d": "₹ 3 lakh"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 4.8 lakh",
+              "reasoning": "Rs in lakh | Cost of the asset on 1.4.2017 | Less: Depreciation for 4 years (2017-18 to 2020-21) | ( 12.5) | Carrying amount as on 31.3.2021 | 12.5 | Add: upward revaluation | 5.5 | (credited to revaluation reserve) | Less: depreciation of 2 years | (7.2) | i.e 2021-22, 22-23 | Carrying amount as on 31.3.2023 | 10.8 | Less: recoverable amount | (6) | Impairment loss | 4.8"
             },
             {
               "q_no": 4,
@@ -1787,9 +1787,9 @@
                 "c": "₹ 13,47,500",
                 "d": "₹ 14,52,500"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 13,47,500",
+              "reasoning": "Carrying amount of investment in the separate financial statement, of G | ltd. as on 31.3.2024 | Amount paid for investment in Build Ltd. | ₹ 14,00,000 | Less: pre acquisition dividend | ₹ (52,500) | Carrying amount as on 31.3.2024 | ₹ 13,47,500 | ADVANCED ACCOUNTING"
             }
           ]
         },
@@ -1806,8 +1806,8 @@
                 "c": "54,000 shares",
                 "d": "60,000 shares"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "b",
+              "value_text": "80,000 shares",
               "reasoning": ""
             },
             {
@@ -1819,8 +1819,8 @@
                 "c": "15,00,000 shares",
                 "d": "13,50,000 shares"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "a",
+              "value_text": "20,00,000 shares",
               "reasoning": ""
             },
             {
@@ -1832,8 +1832,8 @@
                 "c": "42,80,000",
                 "d": "46,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "d",
+              "value_text": "46,00,000",
               "reasoning": ""
             },
             {
@@ -1845,8 +1845,8 @@
                 "c": "55,700",
                 "d": "74,000 ADVANCED ACCOUNTING"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "a",
+              "value_text": "54,000 Reason: Common for 1, 2, 3, 4 Shares Outstanding Test Particulars (Shares) Number of shares outstanding 2,40,000 25% of the shares outstanding 60,000 Resources Test Particulars Paid up capital (₹) 24,00,000 Free reserves (₹) 30,00,000 Shareholders’ funds (₹) 54,00,000 25% of Shareholders fund (₹) ₹ 13,50,000 Buy-back price per share ₹ 25 Number of shares that can be bought back (shares in crores) 54,000 shares Debt Equity Ratio Test Particulars When loan fund is (a) Loan funds (₹) 52,00,000 (b) Minimum equity to be maintained after buy-back in the ratio of 2:1 (₹) 26,00,000 (c) Present equity shareholders fund (₹ in crores) 54,00,000 (d) Future equity shareholder fund (₹ in crores) (54,00,000-8,00,000) 46,00,000 (e) Maximum permitted buy-back of Equity (₹ in crores) [(d) – (b)] 20,00,000 (by simultaneous equation) (f) Maximum number of shares that can be bought back @ ₹ 30 per share (shares in crores) 80,000 (by simultaneous equation) (54,00,000 –x)-26,00,000 = y 0020 = ቀy 25 ×10ቁ= x x = ₹ 8,00,000 y = ₹ 20,00,000 ADVANCED ACCOUNTING",
               "reasoning": ""
             }
           ]
@@ -15672,9 +15672,9 @@
                 "c": "Non-resident",
                 "d": "Deemed resident"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Non-resident",
+              "reasoning": "Mr. Shashikant is an Indian citizen who is leaving India as a member of | the crew of an Indian ship. He is non-resident during the A.Y. 2026-27 | since he is staying in India only for 160 days during the P.Y. 2025-26. Days | from 29.5.2025, being the date entered into the Continuous Discharge | Certificate in respect of joining the ship by Mr. Shashikant till 19.12.2025, | being the date entered into the Continuous Discharge Certificate in | respect of signing off the ship by Mr. Shashikant are to be excluded."
             },
             {
               "q_no": 2,
@@ -15685,9 +15685,9 @@
                 "c": "₹ 5,02,000",
                 "d": "₹ 6,02,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 5,02,000",
+              "reasoning": "In case of non-resident, income accrued or arisen or deemed to accrue or | arise in India or received or deemed to be received in India is taxable. | Accordingly, agriculture income from land in Pakistan, received in India | and rent from house property in India is taxable in his hand after providing | deduction of 30% u/s 24(a) from rental income."
             },
             {
               "q_no": 3,
@@ -15698,9 +15698,9 @@
                 "c": "₹ 5,02,000",
                 "d": "₹ 6,02,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 5,00,500",
+              "reasoning": "In this case, clubbing provision u/s 64(1A) would be applicable and not | deemed ownership provisions u/s 27. Rental income would be clubbed in | the hands of Mr. Shrikant after providing exemption u/s 10(32) of ₹ 1,500."
             },
             {
               "q_no": 4,
@@ -15711,9 +15711,9 @@
                 "c": "₹ 5,300",
                 "d": "Nil"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 5,300",
+              "reasoning": "Total Income as computed in MCQ 2 = ₹ 5,02,000 | Tax liability under default tax regime | Tax = ₹ 5,100 | Add: HEC@4% = ₹ 204 | Tax liability = ₹ 5,300 (Rounded off) | Tax liability under normal provisions of the Act | Tax = ₹ 12,900 | Add: HEC@4% = ₹ 516 | Tax liability = ₹ 13,420 (Rounded off) | INCOME TAX LAW"
             }
           ]
         },
@@ -15730,9 +15730,9 @@
                 "c": "₹ 45,00,000 and ₹ 80,00,000, respectively",
                 "d": "₹ 40,00,000 and ₹ 85,00,000, respectively"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 40,00,000 and ₹ 80,00,000, respectively",
+              "reasoning": "Freight and insurance incurred in foreign exchange for rendering services | outside India are to be excluded from both \"export turnover\" and \"total | turnover\" while computing deduction admissible under section 10AA. | INCOME TAX LAW"
             },
             {
               "q_no": 2,
@@ -15743,9 +15743,9 @@
                 "c": "₹ 5,62,500",
                 "d": "₹ 5,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 5,00,000",
+              "reasoning": "Deduction u/s 10AA = ₹ 20 lakhs x ₹ 40 lakhs/ ₹ 80 lakhs x 50% = ₹ 5 lakhs"
             },
             {
               "q_no": 3,
@@ -15756,9 +15756,9 @@
                 "c": "₹ 11,25,000",
                 "d": "Nil"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "Nil",
+              "reasoning": "No deduction would be available under section 10AA since Mr. Suraj has | not begun manufacturing till 31.3.2020 i.e., P.Y. 2019-20."
             },
             {
               "q_no": 4,
@@ -15769,9 +15769,9 @@
                 "c": "₹ 17,14,500",
                 "d": "₹ 17,28,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 17,14,500",
+              "reasoning": "Income from house property = ₹ 3,00,000 (₹ 25,000 x 12) – ₹ 90,000 (30%, | being deduction u/s 24(a)) = ₹ 2,10,000 | Profits and gains from business or profession = ₹ 20,00,000 | Income from Other Sources | Interest on savings bank account = ₹ 12,500 | Interest on Post Office savings A/c = ₹ 5,500 – Exemption u/s 10(15) of | ₹ 3,500 = ₹ 2,000 | Gross Total Income = ₹ 22,24,500 | Less: Deduction under section 80TTA = ₹ 10,000 | Deduction under section 10AA = ₹ 5,00,000 | Total Income = ₹ 17,14,500"
             }
           ]
         },
@@ -15788,9 +15788,9 @@
                 "c": "₹ 3,60,000",
                 "d": "₹ 1,40,000 INCOME TAX LAW"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 3,60,000",
+              "reasoning": "Income derived from saplings or seedlings grown in a nursery would be | deemed to be agricultural income, whether or not the basic operations | were carried out on land."
             },
             {
               "q_no": 2,
@@ -15801,9 +15801,9 @@
                 "c": "₹ 1,75,000 as agricultural income and ₹ 2,62,500 as business income",
                 "d": "₹ 4,00,000 as agricultural income"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 1,75,000 as agricultural income",
+              "reasoning": "Any income from the sale of cotton is agricultural income. Agricultural | income would be ₹ 4,00,000 - ₹ 2,25,000 = ₹ 1,75,000"
             },
             {
               "q_no": 3,
@@ -15814,9 +15814,9 @@
                 "c": "₹ 3,37,500 as agricultural income and ₹ 1,50,000 as business income",
                 "d": "₹ 4,12,500 as business income"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 2,62,500 as agricultural income and ₹ 1,50,000 as business income",
+              "reasoning": "When Cotton is subjected to the manufacturing process and the | manufactured product i.e., yarn is sold, the profit on such sale will consist | of agricultural income as well as business income. | Agricultural income | ₹ 6,00,000, being market value of 60% cotton - ₹ 3,37,500, being cost of | production of cotton = ₹ 2,62,500 | Business Income | ₹ 8,50,000, being sale value of yarn - ₹ 6,00,000, being market value of | cotton - ₹ 1,00,000, being manufacturing expenses = ₹ 1,50,000"
             },
             {
               "q_no": 4,
@@ -15827,9 +15827,9 @@
                 "c": "₹ 90,000 would be agricultural income and ₹ 63,000 is chargeable to tax as income from house property",
                 "d": "₹ 90,000 would be agricultural income and ₹ 90,000 is chargeable to tax under the head “Income from Other Sources”"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 90,000 would be agricultural income and ₹ 90,000 is chargeable to tax under the head “Income from Other Sources”",
+              "reasoning": "Rent of ₹ 90,000, being ₹ 7,500 p.m. for use of land for agricultural | purposes is agricultural income. | INCOME TAX LAW | Rent of ₹ 90,000, being ₹ 7,500 p.m. for use of land for non-agricultural | purpose is chargeable to tax under the head “Income from Other | Sources”."
             },
             {
               "q_no": 5,
@@ -15840,9 +15840,9 @@
                 "c": "₹ 5,02,500",
                 "d": "₹ 2,13,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 2,40,000",
+              "reasoning": "Profits and gains from business or profession | Business income as computed in MCQ 3 = ₹ 1,50,000 | Income from other Sources | As computed in MCQ 4 = ₹ 90,000 | Gross Total Income = ₹ 2,40,000"
             }
           ]
         },
@@ -15859,9 +15859,9 @@
                 "c": "Resident but not ordinarily resident",
                 "d": "Resident and ordinarily resident"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Resident but can’t determine resident and ordinarily resident or resident but not ordinarily resident from the given information",
+              "reasoning": "Since Mr. Rajesh Sharma stayed in India for 188 days during the | P.Y. 2025-26, he is a resident in India. However, in the absence of | information related to his stay in India for preceding previous years, it | cannot be determined whether he is resident and ordinarily resident or | resident but not ordinarily resident."
             },
             {
               "q_no": 2,
@@ -15872,8 +15872,8 @@
                 "c": "₹ 1,05,400",
                 "d": "₹ 1,03,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "c",
+              "value_text": "₹ 1,05,400 Medical bill reimbursement = ₹ 15,000 Perquisite value of laptop Actual cost = ₹ 1,00,000 Less: Depreciation @50% till 30.9.2023 = ₹ 1,00,000 x 50% = ₹ 50,000 WDV as on 1.10.2023 = ₹ 50,000 Less: Depreciation @50% till 30.9.2024 = ₹ 50,000 x 50% = ₹ 25,000 WDV as on 1.10.2024 = ₹ 25,000 Less: Depreciation @50% till 30.9.2025 = ₹ 25,000 x 50% = ₹ 12,500 WDV as on 1.10.2025 = ₹ 12,500 Sale value = ₹ 15,000 INCOME TAX LAW Perquisite value of laptop= Nil Reimbursement of house servant salary = ₹ 4,000 x 12 = ₹ 48,000 Professional tax paid by employer = ₹ 2,400 Perquisite value of equity shares = 400 x (₹ 350- ₹ 250) = ₹ 40,000 Taxable perquisites = ₹ 1,05,400",
               "reasoning": ""
             },
             {
@@ -15885,9 +15885,9 @@
                 "c": "₹ 9,71,600",
                 "d": "₹ 9,61,600"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 9,76,600",
+              "reasoning": "Basic salary = ₹ 58,000 x 12 = ₹ 6,96,000 | D.A. = 10% of basic pay = ₹ 69,600 | Bonus = ₹ 98,000 | Medical allowance = ₹ 60,000 | Perquisite value as computed in MCQ 2 = ₹ 1,05,400 | Gross salary = ₹ 10,29,000 | Less: standard deduction u/s 16(ia) = ₹ 50,000 | Professional tax u/s 16(iii) = ₹ 2,400 | Net Salary = ₹ 9,76,600"
             },
             {
               "q_no": 4,
@@ -15898,9 +15898,9 @@
                 "c": "₹ 1,31,690",
                 "d": "₹ 1,39,960"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 1,31,690",
+              "reasoning": "Salaries as computed in MCQ 3 = ₹ 9,76,600 | Short term capital gains = ₹ 94,000 | Gross Total Income/ Total Income = ₹ 10,70,600 | Tax @20% on ₹ 94,000 u/s 111A = ₹ 18,800 | Tax on ₹ 9,76,600 at slab rate = ₹ 1,07,820 | Total = ₹ 1,26,620 | Add: HEC @4% = ₹ 5,065 | Tax liability (Rounded off) = ₹ 1,31,690"
             },
             {
               "q_no": 5,
@@ -15911,9 +15911,9 @@
                 "c": "₹ 56,370",
                 "d": "₹ 61,880"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 19,550",
+              "reasoning": "Gross Total Income/ Total Income under normal provisions of the Act = | ₹ 10,70,600 | Add: Professional tax u/s 16(iii) = ₹ 2,400 | Less: Additional standard deduction = ₹ 25,000 | Gross Total Income/ Total Income under default tax regime = ₹ 10,48,000 | Tax @20% on ₹ 94,000 u/s 111A = ₹ 18,800 | Tax on ₹ 9,54,000 at slab rate = ₹ 35,400 | Total = ₹ 54,200 | Less: Rebate under section 87A = ₹ 35,400 | Tax after rebate = ₹ 18,800 | Add: HEC @4% = ₹ 752 | Tax liability (Rounded off) = ₹ 19,550 | INCOME TAX LAW"
             }
           ]
         },
@@ -15930,9 +15930,9 @@
                 "c": "₹ 44,100",
                 "d": "₹ 30,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 30,000",
+              "reasoning": "Perquisite value of rent free accommodation in case accommodation is | taken on rent by the employer | INCOME TAX LAW | Actual amount of lease rental paid or payable by the employer or 10% of | salary, whichever is lower. | 10% of salary = 10% of ₹ 3,03,800, being salary from 1.10.2025 to | 31.3.2026 (₹ 2,17,000, being basic salary + ₹ 86,800, being D.A.) = | ₹ 30,380 | Rent payable by Sky India Limited = ₹ 5,000 x 6 = ₹ 30,000 | Lower of both = ₹ 30,000"
             },
             {
               "q_no": 2,
@@ -15943,9 +15943,9 @@
                 "c": "₹ 24,000",
                 "d": "₹ 25,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 24,000",
+              "reasoning": "Deduction u/s 80D = Premium paid x 1/No of years in which insurance is | in force = ₹ 1,20,000 x 1/5 = ₹ 24,000"
             },
             {
               "q_no": 3,
@@ -15956,9 +15956,9 @@
                 "c": "₹ 60,000",
                 "d": "₹ 1,40,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 1,40,000",
+              "reasoning": "Perquisite value of motor car in case car is owned by employer and | expenses are also met by the employer and used by employee for | personal purposes = Actual expenditure incurred by the employer on | running and maintenance expenses and normal wear and tear (calculated | @10% p.a. of actual cost of motor car) | = ₹ 5,000 x 12 + 10% x ₹ 8 lakhs = ₹ 1,40,000"
             },
             {
               "q_no": 4,
@@ -15969,9 +15969,9 @@
                 "c": "No, Mr. Hardik should not exercise the option of shifting out of the default tax regime, since as per default tax regime, his tax liability would be ₹ 15,230, being lower than the tax liability under normal provisions of the Act.",
                 "d": "No, Mr. Hardik should not exercise the option of shifting out of the default tax regime, since as per default tax regime, his tax liability would be nil."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "No, Mr. Hardik should not exercise the option of shifting out of the default tax regime, since as per default tax regime, his tax liability would be nil.",
+              "reasoning": "Tax liability under default tax regime | Salary | Basic salary = ₹ 35,000 x 10 + ₹ 38,500 x 2 = ₹ 4,27,000 | D.A. = 40% of salary = ₹ 1,70,800 | Perquisite value of rent-free accommodation as computed in MCQ 1 | = ₹ 30,000 | Perquisite value of motor car as computed in MCQ 3 = ₹ 1,40,000 | Gross Salary = ₹ 7,67,800 | Less: Standard deduction u/s 16(ia) = ₹ 75,000 | Net Salary/ Gross Total Income/ Total Income = ₹ 6,92,800 | Tax = ₹ 14,640 | Less: Rebate u/s 87A = ₹ 14,640 | Tax liability = Nil | Tax liability under normal provisions of the Act | Net Salary/ Gross Total Income/ Total Income as per default tax regime = | ₹ 6,92,800 | Add: Standard deduction = ₹ 25,000 | Gross Total Income under normal provisions = ₹ 7,17,800 | Less: Deduction u/s 80C = ₹ 1,50,000 | Less: Deduction u/s 80D as computed in MCQ 2 = ₹ 24,000 | Total Income = ₹ 5,43,800 | Tax = ₹ 21,260 | Add: HEC @4% = ₹ 850 | Tax liability (Rounded off) = ₹ 22,110 | INCOME TAX LAW"
             }
           ]
         },
@@ -15988,9 +15988,9 @@
                 "c": "Deemed resident but not ordinarily resident in India",
                 "d": "Non-resident"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "Non-resident",
+              "reasoning": "Since Ms. Ananya Gupta is an Indian citizen who visited India only for 181 | days during the P.Y. 2025-26 and her total income excluding income from | foreign sources does not exceed ₹ 15 lakhs, she is a non-resident | INCOME TAX LAW"
             },
             {
               "q_no": 2,
@@ -16001,9 +16001,9 @@
                 "c": "Her Delhi house alone; her New York house will be deemed to be let out and expected rent would be the annual value.",
                 "d": "Both her Delhi house and New York house, since benefit of Nil Annual value u/s 23(2) is available in respect of two house properties."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Her Delhi house",
+              "reasoning": "Since Ms. Ananya Gupta is a non-resident, income which is accrued or | arisen or deemed to accrue or arisen or received or deemed to be received | in India would be taxable in her hands in India. Accordingly, her apartment | at New York would not fall under the scope of total income."
             },
             {
               "q_no": 3,
@@ -16014,8 +16014,8 @@
                 "c": "₹ 1,00,000",
                 "d": "₹ 10,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "d",
+              "value_text": "₹ 10,000 House property in Mumbai Arrear of Rent = ₹ 3,00,000 Less: Standard deduction@30% = ₹ 90,000 Taxable = ₹ 2,10,000 House property in Delhi NAV = Nil Less: Interest on loan u/s 24(b) = ₹ 2,00,000 Current year interest ₹ 16 lakhs x 10% = ₹ 1,60,000 Preconstruction interest ₹ 16 lakhs x 10% x 3 = ₹ 4,80,000/5 = ₹ 96,000 Taxable = (₹ 2,00,000) Income from house property = ₹ 10,000",
               "reasoning": ""
             },
             {
@@ -16027,9 +16027,9 @@
                 "c": "₹ 17,95,000",
                 "d": "₹ 18,85,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 10,000",
+              "reasoning": "Same as in MCQ 3 since rental income from property at New York is out | of scope of total income of Ms. Ananya."
             }
           ]
         },
@@ -16046,9 +16046,9 @@
                 "c": "Income from let out of residential units will be taxed under the head “Income from house property” and income from let out of commercial units will be taxed under the head “Profits and gains of business or profession”",
                 "d": "Income from other source"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Income from house property",
+              "reasoning": "Rental income from letting out residential and commercial units by Ram | Builders & Developers is chargeable to tax under the head Income from | house property since its main business is to construct, develop and sale | of residential and commercial units."
             },
             {
               "q_no": 2,
@@ -16059,9 +16059,9 @@
                 "c": "The annual value of both vacant residential and commercial units would be Nil for A.Y.2026-27. Hence, no income is chargeable for such units under the head “Income from house property” for A.Y. 2026-27.",
                 "d": "Vacant units held as stock-in-trade can never be deemed as let out at any point of time"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "The annual value of both vacant residential and commercial units would be Nil for A.Y.2026-27. Hence, no income is chargeable for such units under the head “Income from house property” for A.Y. 2026-27.",
+              "reasoning": "As per section 23(5), the annual value of property being held as stock in | trade would be treated as NIL for a period of two years from the end of | the financial year in which certificate of completion of construction of the | property is obtained from the competent authority, if such property is not | let-out during such period. | INCOME TAX LAW | Since the completion certificate is received during the F.Y. 2024-25, the | annual value of such properties will be Nil for P.Y. 2025-26 and | P.Y. 2026-27."
             },
             {
               "q_no": 3,
@@ -16072,9 +16072,9 @@
                 "c": "₹ 1,10,00,000",
                 "d": "₹ 99,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 1,00,00,000",
+              "reasoning": "Mr. Gaurav has made the advance payment by way of account payee bank | draft on the date of the agreement. Therefore, as per section 43CA, stamp | duty value as on the date of agreement i.e., on 1.11.2025 is to be taken | into consideration for determining full value of consideration. Since the | stamp duty value of ₹ 22 lakhs as on 1.11.2025 does not exceed 110% of | actual consideration of ₹ 20 lakhs, ₹ 20 lakhs will be the full value of | consideration for each residential unit. Hence, full value of consideration | would be ₹ 1 crore (₹ 20 lakhs x 5)."
             },
             {
               "q_no": 4,
@@ -16085,9 +16085,9 @@
                 "c": "Nil, since the stamp duty value is within the permissible deviation limit",
                 "d": "Nil, since section 56(2)(x) is not applicable in this case"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "Nil, since section 56(2)(x) is not applicable in this case",
+              "reasoning": "The provisions of section 56(2)(x) are applicable to the assessee in case of | property which is a capital asset of the assessee. In this case, since | Mr. Gaurav is a real estate developer, the residential unit will be his stock- | in-trade and not capital asset. Hence, section 56(2)(x) is not applicable."
             }
           ]
         },
@@ -16104,9 +16104,9 @@
                 "c": "Both buildings at Chennai and Kochi",
                 "d": "All the three buildings at Chennai, Kochi and Mumbai"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Both buildings at Chennai and Kochi",
+              "reasoning": "Since Mr. Sonu is a real estate developer and letting out properties is not | his main business, rental income from building at Chennai and Kochi | would be chargeable to tax under the head “Income from house | property”. Rental income from letting out of building in Mumbai would | not be chargeable to tax under “Income from house property” since it is | under constructed property."
             },
             {
               "q_no": 2,
@@ -16117,9 +16117,9 @@
                 "c": "Only municipal tax paid by Mr. Sonu",
                 "d": "Both Municipal tax and repairs paid by Mr. Sonu"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Only municipal tax paid by Mr. Sonu",
+              "reasoning": "Municipal taxes paid by the owner, standard deduction @30% u/s 24(a) | and interest on loan for acquisition/ construction or repair of house | property is allowed as deduction while computing income chargeable to | tax in case of let out property. Hence, only municipal taxes paid by | Mr. Sonu will be allowed while computing income under the head “Income | from house property” in respect of the building at Chennai and Kochi."
             },
             {
               "q_no": 3,
@@ -16130,9 +16130,9 @@
                 "c": "Income from other sources",
                 "d": "Income from house property or Income from other sources, at the option of Mr. Sonu"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Income from other sources",
+              "reasoning": "Rental income from Mr. Raju for letting out of building in Mumbai would | not be chargeable to tax under “Income from house property” since it is | under constructed property. It would be chargeable to tax under the head | “Income from other sources”."
             },
             {
               "q_no": 4,
@@ -16143,9 +16143,9 @@
                 "c": "₹ 1,14,800",
                 "d": "₹ 70,700"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 72,800",
+              "reasoning": "Building at Chennai | GAV = ₹ 38,000 [Higher of Rent received and Expected Rent] | Less: Municipal tax = Nil | NAV = ₹ 38,000 | INCOME TAX LAW | Less: Deduction@30% u/s 24(a) = ₹ 11,400 | Taxable = ₹ 26,600 | Building at Kochi | Expected Rent = ₹ 70,000 [Lower of Standard rent and higher of Municipal | valuation and Fair Rent] | GAV = ₹ 70,000 [Higher of Rent received and Expected Rent] | Less: Municipal tax paid by Mr. Sonu = ₹ 4,000 | NAV = ₹ 66,000 | Less: Deduction@30% u/s 24(a) = ₹ 19,800 | Taxable = ₹ 46,200 | Total = ₹ 72,800"
             }
           ]
         },
@@ -16175,9 +16175,9 @@
                 "c": "Loss of ₹ 3,20,489",
                 "d": "Loss of ₹ 3,63,989"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "Loss of ₹ 3,63,989",
+              "reasoning": "Particulars | Thane | Jaipur | Ratlam | NAV | Nil | 13,210 | 95,091 | Less: Deduction @30% u/s 24(b) Nil | 3,963 | 28,527 | Less: Interest on loan | Nil | 43,500 | 3,96,300 | Taxable | Nil | (34,253) | (3,29,736) | Total loss under the head house property = ₹ 3,63,989"
             },
             {
               "q_no": 3,
@@ -16188,9 +16188,9 @@
                 "c": "₹ 2,00,000",
                 "d": "₹ 1,50,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 1,63,989",
+              "reasoning": "Loss of house property upto ₹ 2,00,000 can be set off from salary income | and balance ₹ 1,63,989 will be carried forward to A.Y. 2027-28."
             },
             {
               "q_no": 4,
@@ -16201,9 +16201,9 @@
                 "c": "Long-term capital gain of ₹ 3,00,000",
                 "d": "Long-term capital gain of Nil, since he is eligible for deduction u/s 54EC in respect of amount invested in RECL bonds issued by Central Government"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Long-term capital gain of ₹ 18,00,000",
+              "reasoning": "Full value of consideration | = ₹ 90 lakhs | Less: Cost of acquisition | = ₹ 62 lakhs | Less: Cost of improvement | = ₹ 10 lakhs | Long term capital gains | = ₹ 18 lakhs | Exemption would not be available u/s 54EC since investment in RECL has | been made after 6 months from the date of transfer."
             },
             {
               "q_no": 5,
@@ -16214,9 +16214,9 @@
                 "c": "₹ 23,00,350",
                 "d": "₹ 38,00,350"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 38,00,350",
+              "reasoning": "Salaries = ₹ 22,00,350 (₹ 22,50,350 - ₹ 50,000, being standard deduction) | Less: Loss of house property = ₹ 2,00,000 | Taxable salary = ₹ 20,00,350 | Long term capital gains = ₹ 18,00,000 | Gross Total Income = ₹ 38,00,350 | INCOME TAX LAW"
             }
           ]
         },
@@ -16233,9 +16233,9 @@
                 "c": "₹ 24,94,375",
                 "d": "₹ 24,03,125"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 23,34,688",
+              "reasoning": "WDV as on 1.4.2025 = ₹ 1,45,00,000 | Add: Addition of P & M = ₹ 9,12,500 | = ₹ 1,54,12,500 | Depreciation @15% on ₹ 1,45,00,000 = ₹ 21,75,000 | Depreciation @15% x 50% on ₹ 9,12,500 = ₹ 68,438 | Additional depreciation on ₹ 9,12,500 x 20% x 50% = ₹ 91,250 | Total depreciation on P & M for P.Y. 2025-26 = ₹ 23,34,688"
             },
             {
               "q_no": 2,
@@ -16246,9 +16246,9 @@
                 "c": "₹ 1,30,77,812",
                 "d": "₹ 1,30,09,375"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 1,30,77,812",
+              "reasoning": "WDV as on 1.4.2026 = ₹ 1,54,12,500 - ₹ 23,34,688 = ₹ 1,30,77,812"
             },
             {
               "q_no": 3,
@@ -16259,9 +16259,9 @@
                 "c": "₹ 1,75,75,000",
                 "d": "₹ 1,57,25,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 1,75,75,000",
+              "reasoning": "WDV as on 1.4.2025 = Nil | Add: Addition of building = ₹ 1,85,00,000 | = ₹ 1,85,00,000 | Depreciation@ 10% x 50% for P.Y. 2025-26 = ₹ 9,25,000 | WDV as on 1.4.2026 = ₹ 1,75,75,000 | INCOME TAX LAW"
             }
           ]
         },
@@ -16291,9 +16291,9 @@
                 "c": "₹ 5,54,607",
                 "d": "₹ 6,04,607"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 6,04,607",
+              "reasoning": "Depreciation on Plant & machinery | Purchased on 7.6.2024 = ₹ 14,75,340 | Purchased on 14.1.2025 = ₹ 5,00,000 | Total = ₹ 19,75,340 | For P.Y. 2024-25 | Depreciation @15% on ₹ 14,75,340 = ₹ 2,21,301 | Depreciation @15% x 50% on ₹ 5,00,000 = ₹ 37,500 | Additional depreciation @20% on ₹ 14,75,340 = ₹ 2,95,068 | Additional depreciation @20% x 10% on ₹ 5,00,000 = ₹ 50,000 | WDV as on 1.4.2025 = ₹ 13,71,471 | Add: Purchased on 15.5.2025 = ₹ 8,00,000 | Total = ₹ 21,71,471 | For P.Y. 2025-26 | Depreciation @15% on ₹ 21,71,471 = ₹ 3,25,721 | Balance additional depreciation @20% x 10% = ₹ 50,000 | Additional depreciation @20% on ₹ 8,00,000 = ₹ 1,60,000 | Total depreciation on P & M for P.Y. 2025-26 = ₹ 5,35,721 | Depreciation on Furniture | Purchased on 25.7.2024 = ₹ 7,65,400 | Depreciation @10% on P.Y. 2024-25 = ₹ 76,540 | WDV as on 1.4.2025 = ₹ 6,88,860 | Depreciation @10% on P.Y. 2025-26 = ₹ 68,886 | Total depreciation for P.Y. 2025-26 = ₹ 5,35,721 + ₹ 68,886 = ₹ 6,04,607"
             },
             {
               "q_no": 3,
@@ -16304,9 +16304,9 @@
                 "c": "No, tax is to be deducted, since amount does not exceed the threshold limit",
                 "d": "Yes, TDS amounting to ₹ 16,500 @10% on ₹ 1,65,000 is to be deducted"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "Yes, TDS amounting to ₹ 16,500 @10% on ₹ 1,65,000 is to be deducted",
+              "reasoning": "TDS u/s 194J is to be deducted on professional fees paid to Mr. A, Mr. B | and Mr. C respectively on ₹ 55,000 @10% each. Total TDS to be deducted | = ₹ 1,65,000 x 10% = ₹ 16,500 | INCOME TAX LAW"
             }
           ]
         },
@@ -16323,9 +16323,9 @@
                 "c": "₹ 47,540",
                 "d": "₹ 30,210"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 30,210",
+              "reasoning": "As per section 40(b), interest to all partners whether working or not, is | allowable as deduction upto 12% p.a. | Interest on capital to A & B allowable = ₹ 18,500 x 2/19.5% x 12% | = ₹ 22,770 | Interest on capital to C allowable = ₹ 10,540 /17% x 12% = ₹ 7,440 | Total interest deduction allowable = ₹ 30,210 | INCOME TAX LAW"
             },
             {
               "q_no": 2,
@@ -16336,9 +16336,9 @@
                 "c": "₹ 1,08,000",
                 "d": "₹ 78,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 1,20,000",
+              "reasoning": "As per section 40(b), remuneration to working partners only is allowable | in the hands of ABC & Co. upto the prescribed limit. Hence, remuneration | to C is not allowed. | Allowable remuneration as per section 40(b) | Book profit = ₹ 11,50,000 | Upto ₹ 6,00,000 @90% = ₹ 5,40,000 | Above 6,00,000 @60% = ₹ 3,30,000 | Total = ₹ 8,70,000 | Remuneration paid to A & B = ₹ 32,000 x 12 x 2 = ₹ 7,68,000 | So, remuneration allowed = ₹ 7,68,000 | Remuneration disallowed = ₹ 10,000 x 12 = ₹ 1,20,000 i.e., remuneration to C"
             },
             {
               "q_no": 3,
@@ -16349,9 +16349,9 @@
                 "c": "31st October 2026 for both Mr. A and Mr. C",
                 "d": "31st October 2026 for Mr. C and 31st July 2026 for Mr. A"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "31st October 2026 for both Mr. A and Mr. C",
+              "reasoning": "The due date of filing return of income in case of a partner of a firm whose | accounts are required to be audited under the Income-tax Act, 1961 is | 31st October, 2026."
             },
             {
               "q_no": 4,
@@ -16362,9 +16362,9 @@
                 "c": "₹ 51,920",
                 "d": "₹ 1,53,560"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 1,72,330",
+              "reasoning": "Book Profit = ₹ 11,50,000 | Less: Allowable remuneration u/s 40(b) = ₹ 7,68,000 | Less: Brought forward business losses = ₹ 2,09,670 | Business profit = ₹ 1,72,330"
             }
           ]
         },
@@ -16381,9 +16381,9 @@
                 "c": "Non-resident",
                 "d": "Deemed resident"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "Deemed resident",
+              "reasoning": "Mr. Narendra Sharma is a not a resident as per section 6(1) since he does | not fulfill any of the two conditions of being a resident in India. | However, Mr. Narendra Sharma is a deemed resident in India u/s 6(1A) | since he is an Indian citizen having his total income other than income | from foreign sources exceeds ₹ 15 lakhs and he is not liable to tax in | Dubai."
             },
             {
               "q_no": 2,
@@ -16394,9 +16394,9 @@
                 "c": "Dividend received from Rainbow Ltd is taxable in the hands of Mr. Narendra. Tax of ₹ 525 is required to be deducted at source.",
                 "d": "Dividend received from Rainbow Ltd is taxable in the hands of Mr. Narendra. Tax of ₹ 700 is required to be deducted at source."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Dividend received from Rainbow Ltd is taxable in the hands of Mr. Narendra but, since the dividend is less than ₹ 10,000, no tax is required to be deducted at source. INCOME TAX LAW",
+              "reasoning": "Shares of Rainbow Ltd. held by Mr. Narendra as on 31.1.2026, being the | record date = 350 (50+200+100) | Dividend to be receivable = 350 x 10 x 200% = ₹ 7,000 | Since the dividend is less than ₹ 10,000, no tax is required to be deducted | u/s 194."
             },
             {
               "q_no": 3,
@@ -16407,9 +16407,9 @@
                 "c": "Mr. Narendra is liable to deduct TDS u/s 194-IB of ₹ 4,800 in the month of March 2026",
                 "d": "Mr. Narendra is liable to deduct TDS u/s 194-IB of ₹ 12,000 in the month of March 2026"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Mr. Narendra is liable to deduct TDS u/s 194-IB of ₹ 4,800 in the month of March 2026",
+              "reasoning": "Since Mr. Narendra pays rent exceeding ₹ 50,000 per month in the | F.Y. 2025-26, he is liable to deduct tax at source @2%. The tax is to be | deducted in the last month of the P.Y. 2025-26 i.e., March 2026 or in the last | month of tenancy, if the property is vacated during the year. Since property | is not vacated during the year, ₹ 4,800 [(₹ 60,000 x 4 x 2%)] has to be | deducted from rent payable for March, 2026."
             },
             {
               "q_no": 4,
@@ -16420,9 +16420,9 @@
                 "c": "₹ 27,08,852",
                 "d": "₹ 26,58,852"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 26,27,202",
+              "reasoning": "Basic Salary = ₹ 2,75,675 x 4 = ₹ 11,02,700 | COLA = ₹ 1,20,200 x 4 = ₹ 4,80,800 | Other Allowances = ₹ 1,56,000 x 4 = ₹ 6,24,000 | HRA = ₹ 1,37,838 x 4 = ₹ 5,51,352 | Less: HRA Exempted = ₹ 81,650 | 50% of salary = ₹ 15,83,500 x 50% = ₹ 7,91,750 | Rent paid – 10% of salary = ₹ 2,40,000 - ₹ 1,58,350 = ₹ 81,650 | HRA received = ₹ 5,51,352 | Gross Salary = ₹ 26,77,202 | Less: Standard deduction u/s 16(ia) = ₹ 50,000 | Net Salary = ₹ 26,27,202"
             }
           ]
         },
@@ -16439,9 +16439,9 @@
                 "c": "Short term capital gains ₹ 22,117",
                 "d": "No capital gains is taxable in his hands, since he received the capital assets as gift."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Short term capital gains ₹ 10,833",
+              "reasoning": "Short term capital gain on sale of mother’s gifted gold chain | = ₹ 42,150 - ₹ 37,822 = ₹ 4,328 | Short term capital gain on sale of father’s gifted gold bracelet | = ₹ 60,180 - ₹56,075 = ₹ 4,105 | Short term capital gain on sale of father’s brother’s gold chain | = ₹ 20,600 - ₹ 18,200 = ₹ 2,400 | Total short term capital gain = ₹ 10,833"
             },
             {
               "q_no": 2,
@@ -16452,9 +16452,9 @@
                 "c": "₹ 9,16,813",
                 "d": "₹ 7,16,813"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 9,16,813",
+              "reasoning": "FMV of the following | Gift from mother = ₹ 37,822 | INCOME TAX LAW | Gift from father = ₹ 56,075 | Gift from wife = ₹ 37,429 x 4 = ₹ 1,49,716 | Gift from sister = ₹ 45,000 | Gift from Father’s brother = ₹ 18,200 | Gift from closet cousins = ₹ 4,10,000 [Since car is not a capital asset] | Cash from wife = ₹ 2,00,000 | Amount not taxable u/s 56(2)(x) = ₹ 9,16,813"
             },
             {
               "q_no": 3,
@@ -16465,9 +16465,9 @@
                 "c": "₹   5,79,200",
                 "d": "₹   5,61,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 1,51,000",
+              "reasoning": "₹ 1,51,000 since cash gift exceeds ₹ 50,000 from friends and other distant | relatives"
             },
             {
               "q_no": 4,
@@ -16478,9 +16478,9 @@
                 "c": "Yes; ₹ 19,000",
                 "d": "Yes; ₹ 11,284"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Yes; ₹ 19,000",
+              "reasoning": "Capital gain on sale of rings gifted by Mr. Akshaya’s wife would be taxable | in the hands of his wife. Short term capital gain would be ₹ [4 x (₹40,250 | - ₹ 35,500)] = ₹ 19,000"
             }
           ]
         },
@@ -16497,9 +16497,9 @@
                 "c": "interest income from Karuna to be included in the hands of Mrs. Raavi and interest on two years term deposits to be included in the hands of Mr. Rajesh.",
                 "d": "interest income from Karuna to be included in the hands of Mr. Rajesh and interest on two years term deposits to be included in the hands of Mrs. Raavi. INCOME TAX LAW"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "interest income from Karuna to be included in the hands of Mr. Rajesh and interest on two years term deposits to be included in the hands of Mrs. Raavi.",
+              "reasoning": "Interest received from Karuna is includible in the hands of Mr. Rajesh as | per section 64(1)(iv) since he gifted cash to Mr. Raavi, his wife, and she | lent the same to Mrs. Karuna. | Interest on fixed deposits in the name minor daughter is includible in the | hands of Mrs. Raavi as per section 64(1A) since Mrs. Raavi total income | excluding this interest income is higher than of Mr. Rajesh’s total income."
             },
             {
               "q_no": 2,
@@ -16510,9 +16510,9 @@
                 "c": "Loss from business included in the hands of Mr. Rajesh and capital gains included in the hands of Mrs. Raavi",
                 "d": "Loss from business included in the hands of Mrs. Raavi and capital gains included in the hands of Mr. Rajesh"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Loss from business included in the hands of Mr. Rajesh and capital gains included in the hands of Mrs. Raavi",
+              "reasoning": "As per section 64(1)(ii), loss from business would be includible in the | hands of Mr. Rajesh since the capital invested in business was entirely out | of the fund gifted by him. | Capital gains would be includible in the hands of Mrs. Raavi since income | from the accretion of the transferred asset is not to be clubbed with the | income of the transferor."
             },
             {
               "q_no": 3,
@@ -16523,9 +16523,9 @@
                 "c": "₹ 7,41,500",
                 "d": "₹ 7,90,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 7,16,500",
+              "reasoning": "Salary = ₹ 62,000 x 12 = ₹ 7,44,000 | Less: Standard deduction u/s 16(ia) = 75,000 | Net Salary = ₹ 6,69,000 | Capital gain on sale of shares = ₹ 66,000 - ₹ 30,000 = ₹ 36,000 | Interest on deposits of Riya = ₹ 11,500 | Total Income = ₹ 7,16,500 | INCOME TAX LAW"
             },
             {
               "q_no": 4,
@@ -16536,9 +16536,9 @@
                 "c": "₹ 8,08,000",
                 "d": "₹ 7,01,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 7,01,000",
+              "reasoning": "Salary = ₹ 64,000 x 12 = ₹ 7,68,000 | Less: Standard deduction u/s 16(ia) = 75,000 | Net Salary = ₹ 6,93,000 | Interest from Karuna = ₹ 30,000 | Less: loss from business = ₹ 22,000 | Net Other sources incomes = ₹ 8,000 | Total Income = ₹ 7,01,000"
             }
           ]
         },
@@ -16555,9 +16555,9 @@
                 "c": "₹ 10,50,000",
                 "d": "₹ 13,76,500 INCOME TAX LAW"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 10,46,500",
+              "reasoning": "Miss Hetal is a deemed owner u/s 27 of property transferred to | Mr. Hemanth. Miss Hetal can claim benefit of Nil value in respect of two | properties. So, it is beneficial for Miss Hetal to claim property II and III in | Mumbai as self-occupied since their expected rent is higher. | Income from deemed let property in Nagpur | GAV = ₹ 5,00,000 | Less: Municipal taxes = ₹ 5,000 | NAV = ₹ 4,95,000 | Less: 30% deduction u/s 24(a) = ₹ 1,48,500 | Income = ₹ 3,46,500 | Income from deemed let property I in Mumbai | GAV = ₹ 10,00,000 | Less: Municipal taxes = Nil | NAV = ₹ 10,00,000 | Less: 30% deduction u/s 24(a) = ₹ 3,00,000 | Income = ₹ 7,00,000 | Income under the head house property = ₹ 10,46,500"
             },
             {
               "q_no": 2,
@@ -16568,9 +16568,9 @@
                 "c": "₹ 46,800",
                 "d": "₹ 1,31,510"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Nil",
+              "reasoning": "Tax liability under default tax regime | Upto ₹ 4,00,000 = Nil | ₹ 4 lakhs to ₹ 8 lakhs @5% = ₹ 20,000 | ₹ 8 lakhs to ₹ 10,46,500 @10% = ₹ 24,650 | Total = ₹ 44,650 | INCOME TAX LAW | Less: Rebate u/s 87A = ₹ 44,650 | Tax liability = Nil | Tax liability under normal provisions of the Act | Upto ₹ 2,50,000 = Nil | ₹ 2.50 lakhs to ₹ 5 lakhs @5% = ₹ 12,500 | ₹ 5 lakhs to ₹ 10 lakhs @20% = ₹ 1,00,000 | ₹ 10 lakhs to ₹ 10,46,500 @30% = ₹ 13,950 | Total = ₹ 1,26,450 | Add: HEC@4% = ₹ 5,058 | Tax liability = ₹ 1,31,510 (Rounded off)"
             },
             {
               "q_no": 3,
@@ -16581,9 +16581,9 @@
                 "c": "Yes, he is required to furnish return of income on or before 30th September, 2026",
                 "d": "Yes, he is required to furnish return of income on or before 31st October, 2026"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Yes, he is required to furnish return of income on or before 31st July, 2026",
+              "reasoning": "Miss Hetal’s father is required to furnish his return of income since total | income before exemption under section 54 and deduction under section | 80C exceeds the basic exemption limit and due date of filing return of | income in his case is 31.7.2026."
             },
             {
               "q_no": 4,
@@ -16594,9 +16594,9 @@
                 "c": "No, he is not required to pay advance tax, since he is a senior citizen and he is not having any income under the head “Profits and gains from business or profession”",
                 "d": "Yes, he is required to pay advance tax, since his total income exceeds basic exemption limit of ₹ 5,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "No, he is not required to pay advance tax, since he is a senior citizen and he is not having any income under the head “Profits and gains from business or profession”",
+              "reasoning": "As per section 207, an individual resident in India is not required to pay | advance tax if he does not have any income chargeable under the head | “Profits and gains from business or profession” and is age of 60 years or | more at any time during the previous year."
             }
           ]
         },
@@ -16613,9 +16613,9 @@
                 "c": "Yes, as the gross receipts from business exceeds ₹ 50,00,000",
                 "d": "Yes, as the gross receipts from profession exceeds ₹ 25,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "No, as the gross receipts from business or profession are below the specified threshold limits.",
+              "reasoning": "Ms. Chanchal is not liable to tax audit for the P.Y. 2025-26 since receipts | from business does not exceed ₹ 1 crore and receipts from profession | does not exceed ₹ 50 lakhs."
             },
             {
               "q_no": 2,
@@ -16626,8 +16626,8 @@
                 "c": "(ii) view is correct",
                 "d": "(i) and (iv) views are correct"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "a",
+              "value_text": "(iii) and (iv) views are correct",
               "reasoning": ""
             },
             {
@@ -16639,9 +16639,9 @@
                 "c": "₹ 11,00,000 and Long-term capital gain.",
                 "d": "₹ 7,00,000 and Long-term capital gain."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 10,00,000 and Short-term capital gain.",
+              "reasoning": "The capital gain would be short term since the property was held for less | than 24 months. As per section 50C, full value of consideration will be | ₹ 50,00,000, being the sale consideration since the part payment was | received on the date of agreement by account payee cheque and stamp | duty value on date of agreement does not exceed 110% of sale | consideration."
             },
             {
               "q_no": 4,
@@ -16652,9 +16652,9 @@
                 "c": "No loss is required to be carried forward, since brought forward loss and current year loss are set-off against current year’s income",
                 "d": "₹ 5,50,000 under section 74 and ₹ 70,00,000 under section 73"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 5,50,000 under section 74",
+              "reasoning": "Loss of ₹ 70 lakhs from trading in the agricultural commodity derivatives | is normal business loss and can be set off from business and profession | loss of ₹ 70 lakhs. Brought forward long-term capital loss of ₹ 5,50,000 | can be set off only against long term capital gain and hence, in the | absence of long term capital gain in P.Y. 2025-26 the same will be carried | forward to A.Y. 2027-28 under section 74. | INCOME TAX LAW"
             }
           ]
         },
@@ -16671,9 +16671,9 @@
                 "c": "₹ 33,000",
                 "d": "₹ 9,500"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 8,000",
+              "reasoning": "Income from a quiz competition will be taxable in the hands of minor son, | Dhaval since it is earned by him from his talent. Interest of ₹ 9,500 on | bank fixed deposit is to be included in the hands of parents whose income | is greater without including this income. | Exemption under section 10(32) of ₹ 1,500 is available to Mr. Abhishek | since he has opted out of the default tax regime under section 115BAC."
             },
             {
               "q_no": 2,
@@ -16684,9 +16684,9 @@
                 "c": "₹ 2,13,64,530",
                 "d": "₹ 2,15,46,070"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 2,13,72,530",
+              "reasoning": "Salaries | Salary = ₹ 1,35,00,000 | Less: Standard deduction u/s 16(ia) = ₹ 50,000 | Net Salary = ₹ 1,34,50,000 | Capital gain | LTCG = ₹ 1,73,540 | Less: Exemption u/s 54EC = ₹ 1,73,540 | LTCG = Nil | STCG = 73,00,000 | Income from other sources | Dividend = ₹ 5,90,000 | Interest on saving bank account = ₹ 24,530 | Interest on fixed deposit of minor son = ₹ 8,000 | Gross Total Income = ₹ 2,13,72,530"
             },
             {
               "q_no": 3,
@@ -16697,9 +16697,9 @@
                 "c": "₹ 95,000",
                 "d": "₹ 75,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 75,000",
+              "reasoning": "Deduction under section 80C | Contribution to PPF = ₹ 35,000 | Tuition fees = ₹ 20,000 x 2 = ₹ 40,000 | Total = ₹ 75,000"
             },
             {
               "q_no": 4,
@@ -16710,9 +16710,9 @@
                 "c": "₹ 59,60,050",
                 "d": "₹ 61,45,610 INCOME TAX LAW"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 65,40,640",
+              "reasoning": "Gross Total Income = ₹ 2,13,72,530 | Less: Deduction under section 80C = ₹ 75,000 | Less: Deduction under section 80TTA = ₹ 10,000 | Total Income = ₹ 2,12,87,530 | Tax liability | Tax on STCG of ₹ 73 lakhs @20% = ₹ 14,60,000 | Tax on balance income of ₹ 1,39,87,530 | Upto ₹ 2,50,000 = Nil | ₹ 2.50 lakhs to ₹ 5 lakhs @5% = ₹ 12,500 | ₹ 5 lakhs to ₹ 10 lakhs @20% = ₹ 1,00,000 | ₹ 10 lakhs to ₹ 1,39,87,530 @30% = ₹ 38,96,259 | Total = ₹ 54,68,759 | Add: Surcharge @15% = ₹ 8,20,314 | = ₹ 62,89,073 | Add: HEC@4% = ₹ 2,51,563 | Tax liability = ₹ 65,40,640 (Rounded off) | INCOME TAX LAW"
             }
           ]
         },
@@ -16729,9 +16729,9 @@
                 "c": "Non-resident",
                 "d": "Deemed resident but not ordinarily resident"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Resident and ordinarily resident",
+              "reasoning": "Mr. X is a resident in India during the P.Y. 2025-26 since he stayed in India | for 182 days during the P.Y. 2025-26. He is resident and ordinarily resident | since he satisfies both the additional conditions of being a resident and | ordinarily resident."
             },
             {
               "q_no": 2,
@@ -16742,9 +16742,9 @@
                 "c": "₹ 32,510",
                 "d": "Nil"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "Nil",
+              "reasoning": "Income under the head house property | Rental income = ₹ 70,000 x 12 = ₹ 8,40,000 | Less: deduction u/s 24(a)@30% = 2,52,000 | = ₹ 5,88,000 | Income from other sources | Interest on income-tax refund = ₹ 5,775 | Gift from grandchildren (Not taxable) | Total Income = ₹ 5,93,775 | Tax liability under default tax regime | ₹ 4,00,000 to ₹ 5,93,775@5% = ₹ 9,689 | Less: Rebate u/s 87A = ₹ 9,689 | Tax liability = Nil | Tax liability under normal provisions of the Act | ₹ 3,00,000 to ₹ 5,00,000@5% = ₹ 10,000 | ₹ 5,00,000 to ₹ 5,93,775@20% = ₹ 18,755 | Total = ₹ 28,755 | Add: HEC@4% = ₹1,150 | Tax liability = ₹ 29,910"
             },
             {
               "q_no": 3,
@@ -16755,9 +16755,9 @@
                 "c": "Yes, Mr. Y is required to deduct tax at source of ₹ 16,800",
                 "d": "No, there is no requirement to deduct tax at source, since Mr. X is a non-resident"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Yes, Mr. Y is required to deduct tax at source of ₹ 16,800",
+              "reasoning": "Mr. Y is required to deduct tax at source u/s 194-IB @2% from the rent of | March 2026."
             },
             {
               "q_no": 4,
@@ -16768,9 +16768,9 @@
                 "c": "Advance tax liability shall arise, since he is a non-resident",
                 "d": "Advance tax liability shall arise, since his tax liability is not less than ₹ 10,000 INCOME TAX LAW"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Advance tax liability shall not arise, since Mr. X is a resident senior citizen and he has no income chargeable under the head “Profits and gains of business or profession",
+              "reasoning": "As per section 207, an individual resident in India is not required to pay | advance tax if he does not have any income chargeable under the head | “Profits and gains from business or profession” and is age of 60 years or | more at any time during the previous year. | INCOME TAX LAW"
             }
           ]
         },
@@ -16787,9 +16787,9 @@
                 "c": "Non-resident",
                 "d": "Deemed resident but not ordinarily resident"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Resident and ordinarily resident",
+              "reasoning": "Mr. Zukaro will be a resident in India if he satisfies any one of the basic | conditions. He is a resident in India during the P.Y. 2025-26 since he stays | in India for 60 days or more (100 days, in this case) and 365 days or more | (760 days, in this case) during the immediately preceding 4 years. | He is a resident and ordinarily resident during P.Y. 2025-26 since he | satisfies both the additional conditions of staying 729 days or more during | the immediately preceding 7 years and resident in 2 or more P.Y. out of | immediately 10 previous years."
             },
             {
               "q_no": 2,
@@ -16800,9 +16800,9 @@
                 "c": "Yes, as business is controlled from India",
                 "d": "No, as income is received outside India"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "No, as it is confined to purchase of goods in India for further export and hence not an income deemed to accrue or arise in India",
+              "reasoning": "As per section 9(1)(i) in the case of a non-resident, no income shall be | deemed to accrue or arise in India to him through or from operations which | are confined to the purchase of goods in India for the purpose of export."
             },
             {
               "q_no": 3,
@@ -16813,9 +16813,9 @@
                 "c": "Yes, long term capital gain of ₹ 3,86,453 is chargeable to tax, since he is resident in India",
                 "d": "Yes, long term capital gain of ₹ 8,22,500 is chargeable to tax, since he is resident in India"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "Yes, long term capital gain of ₹ 8,22,500 is chargeable to tax, since he is resident in India.",
+              "reasoning": "Full value of consideration = ₹ 26,25,000 | Less: Brokerage on sale @2%= ₹ 52,500 | Net consideration = ₹ 25,72,500 | Less: Cost of acquisition = ₹ 17,50,000 | Long term capital gain = ₹ 8,22,500"
             },
             {
               "q_no": 4,
@@ -16826,9 +16826,9 @@
                 "c": "Yes, such income is taxable as income from other sources, since land is given on lease",
                 "d": "Yes, such income is taxable since he is non-resident even though it is an agricultural income. INCOME TAX LAW"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "No, such income is exempt, since it is agricultural income",
+              "reasoning": "Rental income from agricultural land is agricultural income and exempt | under section 10(1)."
             }
           ]
         },
@@ -16845,9 +16845,9 @@
                 "c": "₹ 1,60,000",
                 "d": "₹ 2,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 2,00,000",
+              "reasoning": "Deduction u/s 80C in respect of tuition fees = ₹ 1,50,000 | Deduction u/s 80TTB | = ₹ 50,000 | Total deduction | = ₹ 2,00,000"
             },
             {
               "q_no": 4,
@@ -16858,9 +16858,9 @@
                 "c": "₹ 22,56,080",
                 "d": "₹ 22,72,670"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 22,56,080",
+              "reasoning": "Salaries = ₹ 13,50,000 | Business income = ₹ 60,00,000 | Income from Other Sources = ₹ 57,000 (₹ 12,000 + ₹ 45,000) | Gross Total Income = ₹ 74,07,000 | Less: Deduction under Chapter VI-A as computed in MCQ 3 = ₹ 2,00,000 | Total Income = ₹ 72,07,000 | Tax liability | Upto ₹ 3,00,000 = Nil | ₹ 3,00,000 to ₹ 5,00,000 @5% = ₹ 10,000 | ₹ 5,00,000 to ₹ 10,00,000 @20% = ₹ 1,00,000 | ₹ 10,00,000 to ₹ 72,07,000 @30% = ₹ 18,62,100 | INCOME TAX LAW | Total = ₹ 19,72,100 | Add: Surcharge @10% = ₹ 1,97,210 | = ₹ 21,69,310 | Add: HEC@4% = ₹ 86,772 | Tax liability = ₹ 22,56,080 (Rounded off)"
             },
             {
               "q_no": 5,
@@ -16871,9 +16871,9 @@
                 "c": "30th November, 2026",
                 "d": "31st March, 2027"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "31st October, 2026",
+              "reasoning": "Mr. Rajan is required to get his books of account audited since his gross | receipts from profession exceeds ₹ 50,00,000. In such case, the due date | for filing return of income will be 31st October of the relevant assessment | year."
             }
           ]
         },
@@ -16890,9 +16890,9 @@
                 "c": "Non-resident",
                 "d": "Deemed resident"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "Resident but not ordinarily resident in India",
+              "reasoning": "Mr. Animesh is an Indian citizen who visits India and his total income other | than income from foreign sources exceeds ₹ 15 lakhs. Since he stayed in | India during the P.Y. 2025-26 for 120 days or more and for 365 days or | more during the immediately preceding 4 years, he is a resident but not | ordinarily resident in India."
             },
             {
               "q_no": 2,
@@ -16903,9 +16903,9 @@
                 "c": "₹ 9,78,200",
                 "d": "₹ 10,92,200"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 1,38,200",
+              "reasoning": "Property in Delhi | GAV = ₹ 32,500 x 12 = ₹ 3,90,000 | Less: Municipal taxes paid = ₹ 40,000 | NAV = ₹ 3,50,000 | Less: Deduction u/s 24(a) @30% = ₹ 1,05,000 | Less: Interest on loan u/s 24(b) = ₹ 3,14,000 | Taxable income = (₹ 69,000) | INCOME TAX LAW | Property in Ranchi | Arrears of Rent = ₹ 2,96,000 | Less: Deduction @30% = ₹ 88,800 | Taxable = ₹ 2,07,200 | Income under the head house property = ₹ 1,38,200"
             },
             {
               "q_no": 3,
@@ -16916,9 +16916,9 @@
                 "c": "₹ 20,00,000",
                 "d": "₹ 38,00,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 18,00,000",
+              "reasoning": "Full value of consideration = ₹ 10,000 x 480 = ₹ 48,00,000 | Less: Cost of acquisition = ₹ 30,00,000 | Higher of | Actual cost of ₹ 10,00,000 (10,000 x 100) and | Lower of FMV as on 31.1.2018 i.e., ₹ 30 lakhs or full value of consideration | of ₹ 48 lakhs | Long term capital gain = ₹ 18,00,000"
             },
             {
               "q_no": 4,
@@ -16929,9 +16929,9 @@
                 "c": "₹ 22,48,200",
                 "d": "₹ 21,68,200"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 21,68,200",
+              "reasoning": "Income under the head house property = ₹ 1,38,200 | Capital gains = ₹ 18,00,000 | Income from other sources = Interest on bonds of Canadian Co. (received | in India) = ₹ 3,10,000 | Gross Total Income = ₹ 22,48,200 | Less: Deduction u/s 80C for principal repayment of loan = ₹ 80,000 | Total Income = ₹ 21,68,200"
             },
             {
               "q_no": 5,
@@ -16942,9 +16942,9 @@
                 "c": "₹ 1,77,750",
                 "d": "₹ 2,25,460"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 2,21,300",
+              "reasoning": "Total Income = ₹ 21,68,200 | Tax on ₹ 16,75,000 u/s 112A@12.50% = ₹ 2,09,375 | Tax on balance income of ₹ 3,68,200 | Upto ₹ 3,00,000 = Nil | ₹ 3,00,000 to ₹ 3,68,200 @5% = ₹ 3,410 | Total = ₹ 2,12,785 | Add: HEC@4% = ₹ 8,511 | Tax liability = ₹ 2,21,300 (Rounded off) | INCOME TAX LAW"
             }
           ]
         },
@@ -16961,9 +16961,9 @@
                 "c": "₹ 28 lakhs",
                 "d": "₹ 35 lakhs"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 25 lakhs",
+              "reasoning": "Interest on borrowings from PNB on accrual basis = ₹ 25 lakhs. Interest | on borrowings from SBI is not allowed during P.Y. 2025-26 since the | construction is in progress."
             },
             {
               "q_no": 2,
@@ -16974,9 +16974,9 @@
                 "c": "₹ 3,70,000",
                 "d": "₹ 9,20,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 3,70,000",
+              "reasoning": "Deduction under section 80C = Repayment of loan to PNB of | ₹ 25,00,000, subject to maximum of ₹ 1,50,000 | Deduction under section 80D = ₹ 20,000 | Deduction under section 80E = ₹ 50,000 | Deduction under section 80EEB = ₹ 1,50,000 | Total deduction under Chapter VI-A = ₹ 3,70,000"
             },
             {
               "q_no": 3,
@@ -16987,9 +16987,9 @@
                 "c": "Yes, it is chargeable to tax as “Income from Other Sources”, being the residuary head of income.",
                 "d": "Yes, it is chargeable to tax as “Income from house property”, since section 22 does not distinguish between a residential house property and commercial house property. INCOME TAX LAW"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "No, it is not chargeable to tax",
+              "reasoning": "Notional interest on interest free deposit is not taxable."
             },
             {
               "q_no": 4,
@@ -17000,9 +17000,9 @@
                 "c": "In Mrs. Akash’s hands; ₹ 23,000",
                 "d": "It would change every year depending on the parent whose income is higher in that year."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "In Mr. Akash’s hands; ₹ 24,500",
+              "reasoning": "Mr. Akash is a deemed owner u/s 27 of the property transferred to Miss | Sia. Accordingly, rental income would be chargeable to tax in his hands | NAV = ₹ 5,000 x 7 = ₹35,000 | Less: Deduction u/s 24(a) @30% = 10,500 | Income from house property = ₹ 24,500 | INCOME TAX LAW"
             }
           ]
         },
@@ -17019,9 +17019,9 @@
                 "c": "₹ 22,12,500",
                 "d": "₹ 17,62,500"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 22,23,438",
+              "reasoning": "WDV as on 1.4.2025 = ₹ 95,00,000 | Add: Purchased on 2nd August but put to use on 1st November | Actual cost = ₹ 45,00,000 + Interest of ₹ 62,500 till put to use (₹ 25 lakhs | x 10% x 3/12) = ₹ 45,62,500 | INCOME TAX LAW | For P.Y. 2025-26 | Depreciation @15% on ₹ 95 lakhs = ₹ 14,25,000 | Depreciation @15% x 50% on ₹ 45,62,500 = ₹ 3,42,188 | Additional depreciation @20% x 50% on ₹45,62,500 = ₹ 4,56,250 | Total depreciation = ₹ 22,23,438"
             },
             {
               "q_no": 2,
@@ -17032,9 +17032,9 @@
                 "c": "₹ 45,000",
                 "d": "₹ 1,50,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 45,000",
+              "reasoning": "30% of ₹ 1,50,000 is disallowed u/s 40(a)(ia) since tax was not deducted | during the P.Y. 2025-26."
             },
             {
               "q_no": 3,
@@ -17045,9 +17045,9 @@
                 "c": "₹ 29,19,162",
                 "d": "₹ 35,28,712"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 31,04,062",
+              "reasoning": "Net profit = ₹ 40,00,000 | Add: Depreciation as per books of account = ₹ 12,20,000 | Add: Disallowed interest u/s 40(a)(ia) as computed in MCQ 2 = ₹ 45,000 | Add: Interest on borrowing capitalized to actual cost =₹ 62,500 | Less: Depreciation as per Income-tax Rules, 1962 as computed in MCQ 1 | = ₹ 22,23,438 | Profits and gains from business or profession = ₹ 31,04,062"
             },
             {
               "q_no": 4,
@@ -17058,9 +17058,9 @@
                 "c": "₹ 35,60,312",
                 "d": "₹ 38,10,312"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 35,60,312",
+              "reasoning": "Profits and gains from business or profession as per normal provisions of | the Act = ₹ 31,04,062 | Add: Additional depreciation = ₹ 4,56,250 | Profits and gains from business or profession as per default tax regime = | ₹ 35,60,312"
             }
           ]
         },
@@ -17077,9 +17077,9 @@
                 "c": "30th September, 2026",
                 "d": "31st October, 2026"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "31st October, 2026",
+              "reasoning": "Since the turnover of M/s Abhinav & sons from business is ₹ 15.50 crores, | he is required to get his books of account audited. In such case, the due | date of filing return of income would be 31st October of the assessment | year."
             },
             {
               "q_no": 2,
@@ -17090,9 +17090,9 @@
                 "c": "₹ 46,30,500",
                 "d": "₹ 33,84,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 36,38,250",
+              "reasoning": "Additional Employee cost during P.Y. 2025-26 = ₹ 21,000 x 12 x 20 | = ₹ 50,40,000 | Deduction u/s 80JJAA = ₹ 50,40,000 x 30% = ₹ 15,12,000 | Additional Employee cost during P.Y. 2024-25 = ₹ 22,500 x 9 x 35 | = ₹ 70,87,500 | Deduction u/s 80JJAA = ₹ 70,87,500 x 30% = ₹ 21,26,250 | Total deduction u/s 80JJAA for P.Y. 2025-26 = ₹ 36,38,250"
             },
             {
               "q_no": 3,
@@ -17103,9 +17103,9 @@
                 "c": "₹ 5,57,60,750",
                 "d": "₹ 5,52,64,250"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 5,48,84,500",
+              "reasoning": "Business income = ₹ 5,75,22,750 | Other sources | Interest on fixed deposits (Gross) = ₹ 12,50,000 | Gross Total Income = ₹ 5,87,72,750 | Less: Deduction under section 80G = ₹ 2,50,000 | Less: Deduction u/s 80JJAA as computed in MCQ 2 = ₹ 36,38,250 | Total Income = ₹ 5,48,84,500 | INCOME TAX LAW"
             },
             {
               "q_no": 4,
@@ -17116,9 +17116,9 @@
                 "c": "₹ 2,31,92,680",
                 "d": "₹ 2,30,67,680"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 2,30,67,680",
+              "reasoning": "Tax payable as per normal provisions of the Act | Upto ₹ 2,50,000 = Nil | ₹ 2,50,000 to ₹ 5,00,000 @5% = ₹ 12,500 | ₹ 5,00,000 to ₹ 10,00,000 @20% = ₹ 1,00,000 | ₹ 10,00,000 to ₹ 5,48,84,500 @30% = ₹ 1,61,65,350 | Total = ₹ 1,62,77,850 | Add: Surcharge @37% = ₹ 60,22,805 | = ₹ 2,23,00,655 | Add: HEC@4% = ₹ 8,92,026 | Tax liability = ₹ 2,31,92,681 | Less: TDS u/s 194A = ₹ 1,25,000 | Tax payable = ₹ 2,30,67,680 (Rounded off) | Tax payable under AMT provisions | Adjusted Total Income = ₹ 5,48,84,500 + ₹ 36,38,250 = ₹ 5,85,22,750 | AMT @18.5% = ₹ 1,08,26,709 | Add: Surcharge @37% = ₹ 40,05,882 | Total = ₹ 1,48,32,591 | Add: HEC@4% = ₹ 5,93,304 | Tax liability = ₹ 1,54,25,895 | Less: TDS u/s 194A = ₹ 1,25,000 | Tax payable = ₹ 1,53,00,900 (Rounded off) | Since tax payable as per normal provisions of the Act is higher than AMT | liability, tax payable by M/s Abhinav & Sons would be ₹ 2,30,67,680"
             }
           ]
         },
@@ -17135,9 +17135,9 @@
                 "c": "₹ 2,07,388",
                 "d": "₹ 2,18,466"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 2,05,466",
+              "reasoning": "Mrs. Ritu is a resident in India since she stayed for more than 182 days in | India during the P.Y. 2025-26. | Deduction under Chapter VI-A available to her | Section 80C = ₹ 1,15,466 (LIC premium of ₹ 98,466 for son, Mr. Yuvaan | and of ₹ 17,000 for daughter, Mrs. Shobha) | Section 80D = Medical insurance for herself of ₹ 35,000 and preventive | health checkup of ₹ 5,000 = ₹ 40,000 | Medical expenditure of ₹ 25,000 for her husband is not allowed since it is | paid in cash | Medical expenditure of ₹ 10,500 for herself is not allowed since she has | medical insurance for herself | Section 80TTB = ₹ 50,000 in respect of interest on bank FD and saving | account | Total deduction under Chapter VI-A = ₹ 2,05,466"
             },
             {
               "q_no": 2,
@@ -17148,9 +17148,9 @@
                 "c": "₹ 7,51,878",
                 "d": "₹ 8,09,378"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 7,51,878",
+              "reasoning": "Salary (Pension) = ₹ 7,30,026 (including TDS) | Less: Standard deduction u/s 16(ia) = ₹ 50,000 | = ₹ 6,80,026 | Interest on saving bank account = ₹ 4,352 | Interest on bank Fixed Deposit = ₹ 67,500 | Gross Total Income = ₹ 7,51,878"
             },
             {
               "q_no": 3,
@@ -17161,9 +17161,9 @@
                 "c": "₹ 7,87,310",
                 "d": "₹ 8,09,380"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 7,26,880",
+              "reasoning": "Gross Total Income under normal provisions of the Act = ₹ 7,51,878 | Less: Standard deduction u/s 16(ia) = ₹ 25,000 | Total Income as per default tax regime = ₹ 7,26,880 (Rounded off) | INCOME TAX LAW"
             }
           ]
         },
@@ -17180,9 +17180,9 @@
                 "c": "Non-resident",
                 "d": "Deemed resident"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "Non-resident",
+              "reasoning": "HUF is non-resident for the A.Y. 2026-27 since control and management | of its affair is situated wholly outside India."
             },
             {
               "q_no": 2,
@@ -17193,8 +17193,8 @@
                 "c": "₹ 51,000 will be exempt as it is a gift received from a relative. ₹ 27,000 received as cash gifts from friends will be taxed as amount is paid in cash and is received from non-residents",
                 "d": "₹ 51,000 will be exempt as it is a gift received from a relative. ₹ 27,000 received as cash gifts from friends will not be taxable as the total gifts received from non-relatives during the A.Y. 2026-27 does not exceed ₹ 50,000"
               },
-              "correct_option": "",
-              "value_text": "",
+              "correct_option": "d",
+              "value_text": "₹ 51,000 will be exempt as it is a gift received from a relative. ₹ 27,000 received as cash gifts from friends will not be taxable as the total gifts received from non-relatives during the A.Y. 2026-27 does not exceed ₹ 50,000",
               "reasoning": ""
             },
             {
@@ -17206,9 +17206,9 @@
                 "c": "₹ 1,51,800",
                 "d": "₹ 7,75,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 1,51,800",
+              "reasoning": "Gross receipts from exhibitions held in South Africa = ₹ 10,00,000 | Gross receipts from exhibitions held in India = ₹ 12,00,000 | Gross receipts from sale of Honey in the exhibitions in India = ₹ 1,05,000 | Gross receipts from sale of Handmade Khadi designer fashion accessories | and other Khadi stationery products = ₹ 2,25,000 | Total Receipts = ₹ 25,30,000 | Less: Cost of material for exhibitions held in South Africa and India = | ₹ 12,00,000 | Less: Cost of Handmade Khadi designer fashion accessories and other | Khadi stationery products = ₹ 1,00,000; | Less: Other eligible Business expenses = ₹ 4,00,000; | Less: Cost of Honey purchased for sale in the exhibitions in India = | ₹ 55,000. | Business income as per books of account = ₹ 7,75,000 | Business income as per presumptive provisions of section 44AD = | ₹ 25,30,000 x 6% = ₹ 1,51,800 | INCOME TAX LAW"
             }
           ]
         },
@@ -17225,9 +17225,9 @@
                 "c": "₹ 10,78,000 from residential unit under the head “Income from house property”; ₹ 8,47,000 from commercial unit under the head “Profits and gains from business or profession”",
                 "d": "₹ 11,55,000 from residential unit under the head “Income from house property”; ₹ 12,10,000 from commercial unit under the head “Profits and gains from business or profession”"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 11,55,000 from residential units and ₹ 8,47,000 from commercial units under the head “Income from house property”",
+              "reasoning": "Rental income from letting out residential and commercial units by | Mr. Manish is chargeable to tax under the head Income from house | property since its main business is to construct, develop and sale of | residential and commercial units. | Rent from one residential unit = ₹ 1,65,000 (₹ 15,000 p.m. x 11) | Expected rent of one residential unit = ₹ 1,54,000 (₹ 14,000 p.m. x 11) | GAV (Higher of rent and expected rent) = ₹ 1,65,000 | Less: Deduction u/s 24(a) @30% = ₹ 49,500 | Taxable income from one residential unit = ₹ 1,15,500 | Taxable income from 10 residential units = ₹ 11,55,000 | Rent from one commercial unit = ₹ 2,20,000 (₹ 20,000 p.m. x 11) | Expected rent of one commercial unit = ₹ 2,42,000 (₹ 22,000 p.m. x 11) | GAV (Higher of rent and expected rent) = ₹ 2,42,000 | Less: Deduction u/s 24(a) @30% = ₹ 72,600 | Taxable income from one commercial unit = ₹ 1,69,400 | Taxable income from 5 commercial units = ₹ 8,47,000 | INCOME TAX LAW"
             },
             {
               "q_no": 2,
@@ -17238,9 +17238,9 @@
                 "c": "₹ 16,50,000 from residential unit under the head “Profits and gains from business or profession”; ₹ 12,10,000 from commercial unit under the head “Profits and gains from business or profession”",
                 "d": "₹ 11,55,000 from residential unit under the head “Income from house property”; ₹ 11,00,000 from commercial unit under the head “Profits and gains from business or profession”"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "₹ 11,55,000 from residential unit under the head “Income from house property”; ₹ 11,00,000 from commercial unit under the head “Profits and gains from business or profession”",
+              "reasoning": "If Mr. Manish is not a real estate developer and has a business of letting | out of properties, rental income from letting out residential units will be | chargeable to tax under the head Income from house property and rental | income from letting out commercial units will be chargeable to tax under | the head profits and gains from business or profession. | Taxable income from 10 residential units, same as computed in MCQ 1 | above = ₹ 11,55,000 | Rent from one commercial unit = ₹ 2,20,000 (₹ 20,000 p.m. x 11) | Rental income from 5 commercial units = ₹ 11,00,000"
             },
             {
               "q_no": 3,
@@ -17251,9 +17251,9 @@
                 "c": "Vacant units would be deemed to be let out for 2 months i.e., February and March 2026 and expected rent of residential units would be taxable under the head “Income from house property” and expected rent of commercial units would be taxable under the head “Profits and gains from business or profession”.",
                 "d": "Vacant units would be deemed to be let out for 2 months i.e., February and March 2026 and expected rent would be taxable under the head “Profits and gains from business or profession”."
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "No tax treatment would be there as the units were not let out and held as stock in trade and 2 years have not lapsed from the end of the F.Y. in which certificate of completion is obtained.",
+              "reasoning": "As per section 23(5), the annual value of property being held as stock in | trade would be treated as NIL for a period of two years from the end of | the financial year in which certificate of completion of construction of the | property is obtained from the competent authority, if such property is not | let-out during such period."
             },
             {
               "q_no": 4,
@@ -17264,9 +17264,9 @@
                 "c": "LIC “C” and “D”",
                 "d": "All LIC maturity proceeds are exempt"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "LIC “C” and “D”",
+              "reasoning": "Maturity proceeds from LIC “A” would be taxable since the premium | payable of ₹ 4 lakhs exceed 10% of sum assured of ₹ 35 lakhs. | Aggregate annual premium for LIC “B”, “C” and “D” exceeds ₹ 5 lakhs | during the term of these policies. | Mr. Manish can claim exemption u/s 10(10D) for the maturity proceeds | under LIC “B” and “C” or LIC “C” and “D” or LIC “B” and “D”. However, the | most beneficial is to claim exemption under LIC “C” and “D”."
             },
             {
               "q_no": 5,
@@ -17277,9 +17277,9 @@
                 "c": "₹ 3,70,000",
                 "d": "Nil"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 1,20,000",
+              "reasoning": "Remuneration from firm Zoco & associate is not allowed as deduction in | the hands of firm since Mr. Manish is a sleeping partner and accordingly, | not taxable in the hands of Mr. Manish. | As per section 40(b), interest to all partners whether working or not is | allowable as deduction upto 12% p.a. | Interest on capital taxable in the hands of Mr. Manish = ₹ 10,00,000 x 12 | = ₹ 1,20,000 | INCOME TAX LAW"
             }
           ]
         },
@@ -17296,9 +17296,9 @@
                 "c": "Non-resident",
                 "d": "Deemed resident"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "Resident but not ordinarily resident",
+              "reasoning": "Mr. Raj stayed in India for 151 days during the P.Y. 2025-26 and for 490 | days during the immediately four preceding previous years. Accordingly, | he is a resident in India. Since he visited India first time in the year 2022- | 23, he is a resident but not ordinarily resident in India for A.Y. 2026-27."
             },
             {
               "q_no": 2,
@@ -17309,9 +17309,9 @@
                 "c": "LTCG of (₹ 2,09,000)",
                 "d": "LTCG of ₹ 62,500 and STCG of ₹ 37,500"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "STCG of ₹ 1,00,000",
+              "reasoning": "On sale of debentures | Full value of consideration = ₹ 16,00,000 (₹ 7500 x 155 + ₹ 2500 x 175) | Less: Cost of acquisition = ₹ 15,00,000 (₹10,000 x 150) | Short term capital gains = ₹ 1,00,000"
             },
             {
               "q_no": 3,
@@ -17322,9 +17322,9 @@
                 "c": "₹ 5,37,500",
                 "d": "₹ 5,71,500"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 6,33,750",
+              "reasoning": "Profits from Indian business = ₹ 5,00,000 | Short term capital gains = ₹ 1,00,000 | Interest on debentures = ₹ 33,750 (₹ 7,500 x 100 x 9% x 6/12) | Gross Total Income = ₹ 6,33,750"
             },
             {
               "q_no": 4,
@@ -17335,9 +17335,9 @@
                 "c": "₹ 70,000",
                 "d": "₹ 1,20,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "b",
+              "value_text": "₹ 85,000",
+              "reasoning": "Deduction under section 80G = ₹ 60,000 | Deduction under section 80GG = ₹ 25,000 | Least of the following | Actual rent paid – 10% of total income = ₹ 1,00,000 – ₹ 57,375 = | ₹ 42,625 | 25% of total income = 25% x ₹ 5,73,750 = ₹ 1,43,438 | = ₹ 5,000 x 5 = ₹ 25,000 | Total deductions = ₹ 85,000"
             },
             {
               "q_no": 5,
@@ -17348,9 +17348,9 @@
                 "c": "₹ 23,140",
                 "d": "Nil INCOME TAX LAW"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "c",
+              "value_text": "₹ 23,140",
+              "reasoning": "Total Income = ₹ 5,48,750 | Upto ₹ 2,50,000 = Nil | ₹ 2.50 lakhs to ₹ 5 lakhs @5% = ₹ 12,500 | ₹ 5 lakhs to ₹ 5,48,750 @20% = ₹ 9,750 | Total = ₹ 22,250 | Add: HEC@4% = ₹ 890 | Tax liability = ₹ 23,140 | INCOME TAX LAW"
             }
           ]
         },
@@ -17367,9 +17367,9 @@
                 "c": "₹ 2,96,536",
                 "d": "₹ 1,15,036"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 11,05,000",
+              "reasoning": "Full value of consideration = ₹ 15,00,000 | Less: Cost of acquisition = ₹ 1,60,000 (Higher of purchase cost or fair | market value as on 1.4.2001 but restricted to stamp duty value as on | 1.4.2001 as reduced by advance forfeited) | Less: Cost of improvement = ₹ 2,35,000 | Long term capital gains = ₹ 11,05,000"
             },
             {
               "q_no": 2,
@@ -17380,9 +17380,9 @@
                 "c": "₹ 24,000",
                 "d": "₹ 36,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "a",
+              "value_text": "₹ 18,000",
+              "reasoning": "Shares renounced to Mr. Kush = 1,000 x 2/5 x 50% = 200 shares | INCOME TAX LAW | Full value of consideration for Mr. Kush for 200 shares @ ₹ 280 per share | = ₹ 56,000 | Less: Cost of acquisition @ ₹ 190 per share (₹ 160 + ₹ 30) = ₹ 38,000 | Short term capital gains = ₹ 18,000"
             },
             {
               "q_no": 3,
@@ -17393,9 +17393,9 @@
                 "c": "Short term capital gains ₹ 28,000 and long-term capital gains ₹ 2,25,000",
                 "d": "Short term capital gains ₹ 34,000 and long-term capital gains ₹ 2,25,000"
               },
-              "correct_option": "",
-              "value_text": "",
-              "reasoning": ""
+              "correct_option": "d",
+              "value_text": "Short term capital gains ₹ 34,000 and long-term capital gains ₹ 2,25,000",
+              "reasoning": "On sale of 1,000 original shares by Mr. Kishan | Full value of consideration @ ₹ 300 per share = ₹ 3,00,000 | Less: Cost of acquisition = ₹ 75,000 | Long term capital gains = ₹ 2,25,000 | On sale of 200 right shares by Mr. Kishan | Full value of consideration @₹ 300 per share = ₹ 60,000 | Less: Cost of acquisition @ ₹ 160 per share = ₹ 32,000 | Short term capital gain = ₹ 28,000 | On sale of right entitlement of 200 shares by Mr. Kishan | Full value of consideration = ₹ 6,000 (200 x ₹ 30) | Less: Cost of acquisition = Nil | Short term capital gain = ₹ 6,000"
             }
           ]
         }

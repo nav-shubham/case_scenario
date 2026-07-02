@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CA Candidate Portal - Login</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231e3a8a'/><text x='15' y='72' fill='%23fff' font-size='60' font-family='sans-serif' font-weight='bold'>CA</text></svg>">
+    <!-- CSS Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Global JS Error Visualizer -->
+    <script>
+        window.onerror = function(message, source, lineno, colno, error) {
+            console.error("Caught global error:", message, "at", source, ":", lineno);
+            const errBanner = document.createElement("div");
+            errBanner.id = "js-error-banner";
+            errBanner.style.cssText = "position: fixed; top: 0; left: 0; right: 0; background: #fee2e2; color: #991b1b; padding: 1rem; border-bottom: 2px solid #ef4444; z-index: 999999; font-family: monospace; font-size: 0.85rem; white-space: pre-wrap; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);";
+            errBanner.innerHTML = "<strong>⚠️ JavaScript Runtime Error:</strong> " + message + "<br><em>Location:</em> " + source + " (Line " + lineno + ":" + colno + ")";
+            document.body.appendChild(errBanner);
+            return false;
+        };
+    </script>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="logo-container" id="header-logo">
+            <div class="logo-icon">CA</div>
+            <div class="logo-text">MCQ Practice Portal</div>
+        </div>
+    </header>
+
+    <!-- Main Views Container -->
+    <main>
+        <!-- LOGIN / PROFILE SIGN-IN SCREEN -->
+        <div id="view-login" class="container" style="display: flex; justify-content: center; align-items: center; min-height: 100%;">
+            <div style="background: var(--bg-card); border: 1px solid var(--border); padding: 3rem; border-radius: 1rem; max-width: 450px; width: 100%; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); margin: auto;">
+                <div style="text-align: center; margin-bottom: 2rem;">
+                    <div style="width: 3.5rem; height: 3.5rem; background: var(--primary); color: #fff; border-radius: 0.75rem; display: inline-flex; align-items: center; justify-content: center; font-size: 1.5rem; font-weight: 800; font-family: var(--font-heading); margin-bottom: 1rem;">CA</div>
+                    <h2 style="font-size: 1.5rem; font-weight: 700; color: var(--text-main);">Candidate Portal</h2>
+                    <p style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.25rem;">Access CA Final & Intermediate MCQ Question Banks</p>
+                </div>
+                
+                <form id="login-form">
+                    <div style="margin-bottom: 1.25rem;">
+                        <label for="login-name" style="display: block; font-size: 0.85rem; font-weight: 700; color: var(--text-muted); margin-bottom: 0.5rem; text-transform: uppercase;">Candidate Full Name</label>
+                        <input type="text" id="login-name" required value="Shubham Kadam" placeholder="Enter your name" style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--border); border-radius: 0.5rem; background: var(--bg-primary); color: var(--text-main); font-family: var(--font-body); font-size: 0.95rem; outline: none; transition: var(--transition);">
+                    </div>
+                    <div style="margin-bottom: 1.5rem;">
+                        <label for="login-reg" style="display: block; font-size: 0.85rem; font-weight: 700; color: var(--text-muted); margin-bottom: 0.5rem; text-transform: uppercase;">Registration / Roll Number</label>
+                        <input type="text" id="login-reg" required value="CRO0123456" placeholder="e.g. CRO0123456" style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--border); border-radius: 0.5rem; background: var(--bg-primary); color: var(--text-main); font-family: var(--font-body); font-size: 0.95rem; outline: none; transition: var(--transition);">
+                    </div>
+                    <button type="submit" class="btn btn-primary" style="width: 100%; padding: 0.9rem;">Sign In to Portal</button>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <!-- Load the login page code -->
+    <script src="login.js?v=20260622_3"></script>
+</body>
+</html>

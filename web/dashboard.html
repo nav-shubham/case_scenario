@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CA MCQ Practice Portal - Dashboard</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231e3a8a'/><text x='15' y='72' fill='%23fff' font-size='60' font-family='sans-serif' font-weight='bold'>CA</text></svg>">
+    <!-- CSS Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Global JS Error Visualizer -->
+    <script>
+        window.onerror = function(message, source, lineno, colno, error) {
+            console.error("Caught global error:", message, "at", source, ":", lineno);
+            const errBanner = document.createElement("div");
+            errBanner.id = "js-error-banner";
+            errBanner.style.cssText = "position: fixed; top: 0; left: 0; right: 0; background: #fee2e2; color: #991b1b; padding: 1rem; border-bottom: 2px solid #ef4444; z-index: 999999; font-family: monospace; font-size: 0.85rem; white-space: pre-wrap; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);";
+            errBanner.innerHTML = "<strong>⚠️ JavaScript Runtime Error:</strong> " + message + "<br><em>Location:</em> " + source + " (Line " + lineno + ":" + colno + ")";
+            document.body.appendChild(errBanner);
+            return false;
+        };
+    </script>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="logo-container" id="header-logo" style="cursor: pointer;">
+            <div class="logo-icon">CA</div>
+            <div class="logo-text">MCQ Practice Portal</div>
+        </div>
+        
+        <!-- Candidate Info Banner (Dynamic) -->
+        <div id="candidate-info-header" style="display: none; align-items: center; gap: 0.5rem; border-left: 1px solid var(--border); padding-left: 1.5rem; margin-left: 1.5rem; margin-right: auto;">
+            <span style="font-size: 0.85rem; font-weight: 700; color: var(--primary);">Candidate:</span>
+            <span id="header-candidate-name" style="font-size: 0.85rem; font-weight: 600; color: var(--text-main);"></span>
+            <span id="header-candidate-reg" style="font-size: 0.85rem; color: var(--text-muted);"></span>
+        </div>
+        
+        <div class="nav-actions">
+            <button class="btn btn-secondary btn-sm" id="btn-logout">Logout</button>
+            <button class="btn btn-secondary btn-sm" id="btn-reset-all" style="color: var(--error);">Reset Data</button>
+        </div>
+    </header>
+
+    <!-- Main Views Container -->
+    <main>
+        <!-- WELCOME / DASHBOARD VIEW -->
+        <div id="view-dashboard" class="container">
+            <div class="welcome-section">
+                <h1 class="welcome-title">CA MCQ Practice Portal</h1>
+                <p class="welcome-subtitle">Prepare for CA Final and CA Intermediate Case Scenario multiple-choice questions. Access official ICAI-style case scenarios and structured question databases to evaluate your preparation.</p>
+                
+                <!-- Dynamic Global Dashboard Stats Panel -->
+                <div class="dashboard-stats" id="dashboard-stats-panel" style="display: none;">
+                    <div class="stat-card">
+                        <span class="stat-value" id="stat-completed">0/0</span>
+                        <span class="stat-label">Cases Completed</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-value" id="stat-accuracy">0%</span>
+                        <span class="stat-label">Average Accuracy</span>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-difficulty-bar">
+                            <span class="diff-chip easy" id="stat-easy-count">Easy: 0</span>
+                            <span class="diff-chip medium" id="stat-medium-count">Medium: 0</span>
+                            <span class="diff-chip hard" id="stat-hard-count">Hard: 0</span>
+                        </div>
+                        <span class="stat-label">Questions Tagged by Difficulty</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Level Selector Screen (First Step) -->
+            <div id="level-selector-screen">
+                <div class="level-selector-grid">
+                    <div class="level-card" data-level="Final">
+                        <div class="level-icon">🎓</div>
+                        <h2 class="level-title">CA Final</h2>
+                        <p class="level-desc">Solve Case Scenarios for Financial Reporting, AFM, Audit, Direct Tax (DT), and Indirect Tax (IDT).</p>
+                    </div>
+                    <div class="level-card" data-level="Intermediate">
+                        <div class="level-icon">📖</div>
+                        <h2 class="level-title">CA Intermediate</h2>
+                        <p class="level-desc">Solve Case Scenarios for Advanced Accounting, Corporate Laws, Costing, Audit, FM, Income Tax, GST, and Strategic Management.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Subject Selection Screen (Second Step) -->
+            <div id="subject-selector-screen" style="display: none;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem;">
+                    <h2 id="level-heading" style="font-size: 2rem;">Select Subject</h2>
+                    <button class="btn btn-secondary" id="btn-back-to-levels">← Back to Levels</button>
+                </div>
+                <div class="subject-grid" id="subject-list-container">
+                    <!-- Dynamic subjects injected here -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Load the compiled database first -->
+    <script src="exam_database.js?v=20260622_3"></script>
+    <!-- Load the dashboard page code -->
+    <script src="dashboard.js?v=20260622_3"></script>
+</body>
+</html>

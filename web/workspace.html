@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CA MCQ Practice Portal - Workspace</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%231e3a8a'/><text x='15' y='72' fill='%23fff' font-size='60' font-family='sans-serif' font-weight='bold'>CA</text></svg>">
+    <!-- CSS Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Global JS Error Visualizer -->
+    <script>
+        window.onerror = function(message, source, lineno, colno, error) {
+            console.error("Caught global error:", message, "at", source, ":", lineno);
+            const errBanner = document.createElement("div");
+            errBanner.id = "js-error-banner";
+            errBanner.style.cssText = "position: fixed; top: 0; left: 0; right: 0; background: #fee2e2; color: #991b1b; padding: 1rem; border-bottom: 2px solid #ef4444; z-index: 999999; font-family: monospace; font-size: 0.85rem; white-space: pre-wrap; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);";
+            errBanner.innerHTML = "<strong>⚠️ JavaScript Runtime Error:</strong> " + message + "<br><em>Location:</em> " + source + " (Line " + lineno + ":" + colno + ")";
+            document.body.appendChild(errBanner);
+            return false;
+        };
+    </script>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="logo-container" id="header-logo" style="cursor: pointer;">
+            <div class="logo-icon">CA</div>
+            <div class="logo-text">MCQ Practice Portal</div>
+        </div>
+        
+        <!-- Candidate Info Banner (Dynamic) -->
+        <div id="candidate-info-header" style="display: none; align-items: center; gap: 0.5rem; border-left: 1px solid var(--border); padding-left: 1.5rem; margin-left: 1.5rem; margin-right: auto;">
+            <span style="font-size: 0.85rem; font-weight: 700; color: var(--primary);">Candidate:</span>
+            <span id="header-candidate-name" style="font-size: 0.85rem; font-weight: 600; color: var(--text-main);"></span>
+            <span id="header-candidate-reg" style="font-size: 0.85rem; color: var(--text-muted);"></span>
+        </div>
+        
+        <div class="nav-actions">
+            <!-- Breadcrumb details -->
+            <span id="breadcrumb-level" style="font-weight: 700; color: var(--secondary); font-size: 0.9rem;"></span>
+            <span id="breadcrumb-subject" style="color: var(--text-muted); font-size: 0.9rem; max-width: 250px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"></span>
+            
+            <button class="btn btn-secondary btn-sm" id="btn-dashboard">Dashboard</button>
+            <button class="btn btn-secondary btn-sm" id="btn-logout">Logout</button>
+        </div>
+    </header>
+
+    <!-- Main Views Container -->
+    <main>
+        <!-- SPLIT WORKSPACE VIEW (SOLVING SCREEN) -->
+        <div id="view-workspace" class="split-workspace">
+            
+            <!-- Collapsible Cases Sidebar -->
+            <div class="sidebar" id="cases-sidebar">
+                <div class="sidebar-header">
+                    <input type="text" class="search-box" id="search-cases" placeholder="Search case scenarios...">
+                    
+                    <div class="mode-toggle-container">
+                        <button class="mode-toggle-btn active" id="btn-mode-practice" data-mode="practice">Practice</button>
+                        <button class="mode-toggle-btn" id="btn-mode-exam" data-mode="exam">Exam</button>
+                    </div>
+                    
+                    <!-- Sidebar Tab Switcher -->
+                    <div class="sidebar-tab-container">
+                        <button class="sidebar-tab-btn active" id="btn-sidebar-tab-cases">Cases</button>
+                        <button class="sidebar-tab-btn" id="btn-sidebar-tab-tags">Tag View</button>
+                    </div>
+                    
+                    <!-- Sidebar Workspace Controls (Layout & Filters) -->
+                    <div class="sidebar-controls" style="margin-top: 1rem; display: flex; flex-direction: column; gap: 0.75rem; border-top: 1px solid var(--border); padding-top: 1rem;">
+                        <!-- Layout Mode Selector -->
+                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                            <span style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted);">Layout:</span>
+                            <div class="layout-toggle" id="layout-toggle-container">
+                                <button class="layout-toggle-btn active" id="btn-layout-single" title="Show one question at a time">Single Q</button>
+                                <button class="layout-toggle-btn" id="btn-layout-all" title="Show all questions at once">All Qs</button>
+                            </div>
+                        </div>
+                        
+                        <!-- Tag Filter Selector -->
+                        <div id="tag-filter-row" style="display: flex; align-items: center; justify-content: space-between;">
+                            <span style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted);">Filter:</span>
+                            <div class="layout-toggle" id="tag-filter-container">
+                                <button class="layout-toggle-btn active" id="btn-filter-tag-all" data-filter="all">All</button>
+                                <button class="layout-toggle-btn" id="btn-filter-tag-easy" data-filter="easy" style="color: var(--success);">Easy</button>
+                                <button class="layout-toggle-btn" id="btn-filter-tag-medium" data-filter="medium" style="color: var(--warning);">Medium</button>
+                                <button class="layout-toggle-btn" id="btn-filter-tag-hard" data-filter="hard" style="color: var(--error);">Hard</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="sidebar-list" id="case-list-container">
+                    <!-- Dynamic cases injected here -->
+                </div>
+            </div>
+
+            <!-- Left Pane: Case Description & Reading tools -->
+            <div class="pane-left" id="pane-description">
+                <div class="pane-controls">
+                    <button class="control-btn" id="btn-font-dec" title="Decrease Font Size">A-</button>
+                    <button class="control-btn" id="btn-font-inc" title="Increase Font Size">A+</button>
+                    <button class="control-btn" id="btn-toggle-highlighter" title="Toggle Yellow Highlighter" style="background: rgba(255, 235, 59, 0.2); border-color: rgb(255, 235, 59);">🖍️</button>
+                </div>
+                <h2 id="case-title" style="margin-bottom: 1rem; font-size: 1.8rem; background: linear-gradient(to right, #fff, var(--secondary)); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"></h2>
+                <div class="case-content-body" id="case-text">
+                    <!-- Case scenario text injected here -->
+                </div>
+            </div>
+
+            <!-- Right Pane: Questions and Answer panel -->
+            <div class="pane-right" id="pane-questions">
+            <div class="pane-header-stats">
+                <div class="pane-header-left">
+                    <h3 style="font-size: 1.1rem;" id="questions-header-text">Multiple Choice Questions</h3>
+                </div>
+                    
+                    <div class="pane-header-right">
+                        <button class="btn btn-accent btn-sm" id="btn-open-pdf" style="margin-right: 0.5rem; display: none;">📂 Open Subject PDF</button>
+                        <div class="exam-timer" id="exam-timer" style="display: none; margin-right: 1rem;">
+                            <span>⏱️</span> <span id="timer-value">00:00</span>
+                        </div>
+                        
+                        <!-- Export Actions Dropdown -->
+                        <div class="dropdown" id="export-dropdown-container">
+                            <button class="btn btn-secondary btn-sm dropdown-toggle" id="btn-export-menu">📤 Export</button>
+                            <div class="dropdown-menu" id="export-menu">
+                                <a class="dropdown-item" id="export-case-csv" href="#">Case Questions (CSV)</a>
+                                <a class="dropdown-item" id="export-case-pdf" href="#">Case PDF / Print</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" id="export-progress-csv" href="#">Progress Report (CSV)</a>
+                                <a class="dropdown-item" id="export-backup-json" href="#">Backup Stats (JSON)</a>
+                                <a class="dropdown-item" id="import-backup-trigger" href="#">Import Backup (.json)</a>
+                            </div>
+                        </div>
+                        <input type="file" id="import-backup-file" accept=".json" style="display: none;">
+                    </div>
+                </div>
+                
+                <div id="questions-list-container">
+                    <!-- Questions injected here -->
+                </div>
+                
+                <!-- Question Navigation (Visible in Single Question Mode) -->
+                <div id="single-question-navigation" class="question-navigation-container" style="display: none;">
+                    <button class="btn btn-secondary btn-sm" id="btn-prev-q">← Previous</button>
+                    <div class="q-navigation-grid" id="q-nav-grid">
+                        <!-- Tiny clickable dots / numbers for jumping to questions -->
+                    </div>
+                    <button class="btn btn-secondary btn-sm" id="btn-next-q">Next →</button>
+                </div>
+                
+                <!-- Practice Mode Submission Controls -->
+                <div id="practice-submit-container" style="margin-top: 2rem; display: none; padding-top: 1rem; border-top: 1px solid var(--border);">
+                    <button class="btn btn-accent" id="btn-submit-practice" style="width: 100%;">Complete Case Scenario & Calculate Marks</button>
+                </div>
+                
+                <!-- Submission Controls (Only active/visible in Exam Mode) -->
+                <div id="exam-submit-container" style="margin-top: 2rem; display: none; padding-top: 1rem; border-top: 1px solid var(--border);">
+                    <button class="btn btn-accent" id="btn-submit-exam" style="width: 100%;">Submit Exam Paper</button>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Score/Result Modal (Exam Mode Completion) -->
+    <div class="modal-overlay" id="result-modal">
+        <div class="modal-content">
+            <div class="score-circle">
+                <span class="score-num" id="modal-score-num">4/5</span>
+                <span class="score-label">Correct</span>
+            </div>
+            <h2 class="modal-title" id="modal-title">Well Done!</h2>
+            <p class="modal-subtitle" id="modal-subtitle">You have completed this case scenario mock exam.</p>
+            <div style="display: flex; gap: 1rem; justify-content: center;">
+                <button class="btn btn-primary" id="btn-modal-review">Review Answers</button>
+                <button class="btn btn-secondary" id="btn-modal-close">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Load the compiled database first -->
+    <script src="exam_database.js?v=20260622_3"></script>
+    <!-- Load the workspace page code -->
+    <script src="workspace.js?v=20260622_3"></script>
+</body>
+</html>
